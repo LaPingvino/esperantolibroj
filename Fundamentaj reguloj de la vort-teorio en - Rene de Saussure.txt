@@ -1,0 +1,1317 @@
+!(images/000002.jpg)
+
+
+VORT-TEORIO
+
+eLIBRO
+
+eLIBRO
+
+René de Saussure
+
+Fundamentaj
+
+reguloj de la
+
+vort-teorio
+
+en Esperanto
+
+
+
+## I N K O
+
+### 1
+
+VORT-TEORIO
+
+eLIBRO
+
+René de Saussure
+
+FUNDAMENTAJ REGULOJ
+
+DE LA VORT-TEORIO
+
+EN ESPERANTO
+
+Raporto al la Akademio Esperantista
+
+eLIBRO
+
+Aran¸is: Franko Luin
+
+ISBN 91-7303-191-7
+
+inko@omnibus.se
+
+http://www.omnibus.se/inko
+
+MARTO 2003
+
+2
+
+VORT-TEORIO
+
+eLIBRO
+
+Raporto
+
+de D-ro René de Saussure
+
+prezidanto de la Komisiono pri Vortfarado al Prof. Boirac, 
+
+prezidanto de la Esperantista Akademio
+
+Bern, la 1-an de julio 1915. 
+
+Tre estimata prezidanto, 
+
+En 1907 Prof. L. Couturat el Parizo eldonis verketon pri La dérivation en Esperanto, en kiu li faris diversajn kriti-kojn al la Esperanta sistemo de vortformado. Tiuj kritikoj ÿajnis al mi netrafaj; sed çar en tiu epoko ekzistis nenia oficiala sistemo de Vortformado en Esperanto \(krom la reg. 11-a de la Fundamenta Gramatiko kaj la
+
+§27 de la Ekzercaro\), mi opiniis, ke oni devus rebati la argumentojn de sinjoro Couturat kaj montri, ke ili estas bazitaj sur ne¸usta kompreno de la vortstrukturo en Esperanto. 
+
+Sekve, en 1910, okaze la Sesa Universala Kongreso en Washington, mi publikigis sub pseûdonimo Antido bro-3
+
+VORT-TEORIO
+
+eLIBRO
+
+ÿureton titolitan La logika bazo de Vortfarado en Esperanto.1 Tiu broÿuro enhavis proponojn faritajn al la Akademio Esperantista por starigi ¸eneralan teorion pri la vortformado. 
+
+La Akademio elektis specialan komisionon por ekza-meni la proponojn de Antido kaj esplori la tutan deman-don pri la vortteorio en Esperanto. Tiu komisiono konsistis el sinjoro de Saussure, prezidanto, sinjoroj Hove-ler \(Çefeç\) kaj Grabowsky. En majo 1913, konforme al la raporto de la komisiono, la Akademio oficiale akceptis la du unuajn proponojn de Antido, kiuj vorti¸is jene: 1-e La Akademio opinias, ke la vortformado en Esperanto estas fondita sur la logika kaj senpera konstruo de çiu aparta vorto kaj ne sur tiel nomitaj ‹reguloj de derivado›; ke reguloj de derivado malutilus al la lingvo, agante kontraû ¸ia nor-mala funkciado, ke tiaj reguloj alportus arbitrajn elementojn, ¸enantajn por la skriba lingvo kaj tre malutilajn por la parola lingvo. 
+
+2-e La Akademio opinias, ke multaj aûtoroj trouzas sufiksojn; tio estas preskaû neevitebla en la parolado, sed tio estigas la skriban lingvon nenecese peza. La kaûzo de tiu trouzo kuÿas en la fakto, ke nevole oni ofte tro insistas sur çiu esprimota ideo por ¸in penetrigi pli forte en la spiriton 1 Respondon al la kritikoj de sinjoro Couturat mi faris ankaû en aliaj broÿuroj: La construction logique des mots en Esperanto \(1910\) kaj La Vortteorio en Esperanto \(1914\). 
+
+4
+
+VORT-TEORIO
+
+eLIBRO
+
+de l’ aûskultanto aû de l’ leganto. Çar aliflanke oni devas ne tiel ÿparegi la sufiksojn, ke la vortoj fari¸os nekomprene-blaj, estas konsilinde difini la du limojn, inter kiuj oni devas resti, tiamaniere, ke oni lasos al arbitro kaj al personaj preferoj rolon kiel eble plej malgrandan. 
+
+La Akademio do rekomendas al la aûtoroj Esperantistaj, ke ili observu la du principojn de neceso kaj de sufiço \(vidu p. 12\), kiuj kontraûstaras unu la alian kaj formas la logikan bazon de vortkonstruo en Esperanto. 
+
+La aliajn proponojn de Antido la Akademio ne akceptis en ilia origina formo, kiu ÿajnis iom tro rigida kaj teo-ria por la praktika uzado de la lingvo. Mi do dediçis la jaron 1914 kaj parton de 1915 al reorganizo de la komisiono,1 reesploro de la tuta temo, komparo kun aliaj sis-temoj kaj studo de la kritikoj intertempe faritaj de diversaj akademianoj kaj aûtoroj Esperantistaj; kaj la rezulto estas la nuna raporto, titolita Fundamentaj reguloj de la Vort-teorio, en kiu la tuta teorio estas esprimita per 16
+
+reguloj, klarigataj per aro da ekzemploj, kiuj montras, kiamaniere oni devas apliki la regulojn en la praktiko. 
+
+Tiun raporton mi havas nun la honoron submeti al la aprobo de la Akademio kiel definitivan formon de la vortteorio en Esperanto. 
+
+1 Sinjoro Grabowsky pro aliaj okupoj eksi¸is el la komisiono, kaj Prof. Cart lin anstataûis. 
+
+5
+
+VORT-TEORIO
+
+eLIBRO
+
+Fundamentaj reguloj de la
+
+VORT-TEORIO
+
+6
+
+VORT-TEORIO
+
+eLIBRO
+
+A. Difinoj. 
+
+1. Vorto estas simbolo de ideo. Trovi la ideon, kiun esprimas donita vorto, estas vortanalizo. Konstrui la vorton, kiu elvokas donitan ideon, estas vortsintezo.1
+
+2. Vorto simpla estas vorto unuelementa \(ekz.: ekster\). 
+
+Vorto kunmetita estas vorto kreata per kunigo de vortoj simplaj2 \(ekz.: mal'bon'ul'o\). 
+
+3. Ekzistas kvar specoj de vortoj simplaj: la vortoj radikaj, aû radikoj \(ekz.: hom\); la vortoj prefiksaj, aû prefiksoj, kutime uzataj antaû radikoj \(ekz.: re en ‹re'veni›\); la vortoj sufiksaj, aû sufiksoj, kutime uzataj post radikoj \(ekz.: ul en ‹bon'ul'o›\); la vortoj finaîaj, aû finaîoj, kutime uzataj çe fino de vortoj \(ekz.: i en ‹çirkaû'i›\). — Çiuj vortoj simplaj, eç la finaîoj, estas rigardataj ankaû kiel memstaraj vortoj.2
+
+4. Pleonasmo oni nomas la ripeton de la sama ideo. 
+
+Pleonasmoj plifortigas la ideon esprimatan \(ekz.: jes, jes\! estas pli forta, ol simpla jes\!\); pleonasmoj tamen ne 1 Sekve, sintezi estas tasko de skribanto aû de parolanto, dum analizi estas tasko de leganto aû de aûskultanto. 
+
+2 Vidu regulon 11-an de la Fundamenta Gramatiko. 
+
+7
+
+VORT-TEORIO
+
+eLIBRO
+
+ÿan¸as la signifon de la vorto aû de la frazo \(ekz.: virho-mo = viro\). 
+
+5. Sinonimoj oni nomas la vortojn, kiuj havas plej ofte saman signifon, kvankam malsaman formon \(ekz.: egal-pezo kaj ekvilibro\). 
+
+6. Çiu vorto povas esti uzata en senco propra aû en senco figura. Ideo per si mem konkreta povas esti prenata en senco abstrakta, kaj reciproke. 
+
+8
+
+VORT-TEORIO
+
+eLIBRO
+
+B. Vortanalizo. 
+
+7. Vorto simpla estas elemento memstara kaj nevariebla, kies signifon oni trovas en la Universala Vortaro aû unu el ¸iaj Oficialaj Aldonoj. 
+
+8. Radikvorto kutime esprimas ideon specialan \(ekz.: elefant\); prefikso aû sufikso esprimas ideon pli ¸eneralan \(ekz.: mal, em\), kaj finaîo esprimas ideon plej ¸eneralan: o \(ideo substantiva\); a \(ideo adjektiva\); i, as, is, ktp., \(ideoj verbaj\); e \(ideo adverba\). — Tamen, vortoj el tiuj diversaj kategorioj povas esti sinonimaj \(ekz.: sufikso ec estas sinonimo de radiko kvalit\). — Multaj vortoj an-kaû, kvankam ne sinonimaj, estas dependaj unu de la alia pro sia signifo mem. Ekzemple, radiko pom estas dependa de radiko frukt, çar la pli speciala ideo ‹pom›
+
+entenas en si mem la pli ¸eneralan ideon ‹frukt›; siavice la ideo ‹frukt› entenas la pli ¸eneralan ideon de ‹aî'o›
+
+konkreta, kiu fine entenas la ¸eneralan ideon substantivan ‹o›. Resume, en vorto pom sin kaÿas la diversaj ideoj: pom\(frukt\)\(aj\)\(o\). 
+
+9. Antaû ol analizi vorton, oni povas forigi la neutilajn por la analizo pleonasmojn. 
+
+9
+
+VORT-TEORIO
+
+eLIBRO
+
+Ekzemple, en vorto frat'o la finaîo o estas pleonasma, çar radiko frat jam en si mem enhavas la ideon substantivan. 
+
+Do, kiel klarigis ankaû Zamenhof en Fund. Krest. \(p. 248\): frat'o = frat. 
+
+10. Le¸o de renverso. Por analizi vorton duelementan, oni disigas la du elementojn kaj renversas ilian ordon. 
+
+Ekzemple, supreniri \(formo sinteza\) signifas ‹iri supren›
+
+\(formo analiza\). 
+
+11. Se tiu analizo ne sufiças, oni elvokas la ideojn kaÿitajn en çiu elemento. 
+
+Ekzemple, en radiko çeval sin kaÿas la pli ¸enerala ideo
+
+‹best›; do çeval'o = çeval\(best\)'o = ‹besto çeval›, ‹besto \(el speco\) çeval›. 
+
+12. Se tia analizo ankoraû ne sufiças, oni elvokas la ideon kaÿitan inter la du partoj de la kunmetita vorto. 
+
+Tiun kaÿitan ideon oni povas ¸enerale esprimi per la vortoj ‹karakterizata per›. 
+
+Ekzemple, skribtablo = ‹tablo \(karakterizata per\) skrib\(i\)›. 
+
+13. Fine, se tia analizo eç ne sufiças, oni elvokas la ideojn kaÿitajn en la kunteksto \(precipe en poezio\). 
+
+Ekzemple, en la frazo:1 ‹Kiel sigelis vi la skribon?›, la vorto skribo estas uzata en senco de skribaîo, kaj la konkreta ideo ‹aî› estas elvokata nur per la kunteksta vorto ‹sigelis›. 
+
+1 El Hamleto, trad. de Zamenhof \(p. 158\). 
+
+10
+
+VORT-TEORIO
+
+eLIBRO
+
+14. Por analizi kunmetitan vorton multelementan, oni disigas ¸in en vortojn duelementajn. 
+
+Ekzemple: çeffalkgardisto = çef'falkgardisto; siavice: falkgardisto = falk'gardisto; fine: gardisto = gard'isto, kaj isto = ist'o = ist \(laû reg. 9-a\). 
+
+11
+
+VORT-TEORIO
+
+eLIBRO
+
+C. Vortsintezo. 
+
+15. La sintezo, aû konstruo, de vortoj estas fondita sur la principo de minimuma peno, esprimebla jene: Principo de neceso. Por konstrui vorton kunmetitan, oni kunigas çiujn vortojn simplajn, kiuj estas necesaj por klare elvoki la ideon esprimotan de tiu kunmetita vorto \(sen aû kun helpo de kunteksto\). 
+
+Principo de sufiço. En la vorto konstruata oni devas eviti la neutilajn pleonasmojn kaj la ideojn fremdajn je la ideo esprimota. 
+
+16. Por konstrui vorton konforme al la du çi supraj principoj, oni uzas procedojn precize inversajn je tiuj uzataj por la vortanalizo. 
+
+12
+
+VORT-TEORIO
+
+eLIBRO
+
+
+
+## E K Z E M P L A R O
+
+### por la Vort-teorio
+
+13
+
+VORT-TEORIO
+
+eLIBRO
+
+I. VORTANALIZO
+
+§1. \(Simplaj vortoj\)
+
+Jen estas pomo. — Sur la tero kuÿas ÿtono. — Mi havas cent pomojn. — Venu al mi hodiaû vespere. 
+
+Vortojn simplajn kiel jen, sur, cent, hodiaû, ktp., oni ne bezonas analizi, çar ilian signifon oni trovas en la Universala Vortaro. 
+
+§2. \(Formoj gramatikaj\)
+
+Mi ne amas obstinajn homojn. — Papero estas blanka. —
+
+Iru for\! 
+
+La formojn gramatikajn, t. e. la akuzativon, la multnom-bron, la tempojn verbajn, ktp., oni ankaû ne bezonas analizi, çar ilian signifon oni trovas en la Fundamenta Gramatiko. En la vortanalizo oni povas konsideri çiujn substantivojn kaj adjektivojn sub formo nominativa kaj ununom-bra \(homo, obstina, ktp.\) kaj çiujn verbojn sub modo sendifina \(esti, iri, ktp.\). Tamen aparte analizindaj estas la formoj participaj, çar ili naskas adjektivojn, adverbojn kaj substantivojn \(Vidu §21-an\). 
+
+1 La ekzemploj estas eltiritaj el la Fundamento de Esperanto. 
+
+14
+
+VORT-TEORIO
+
+eLIBRO
+
+§3. \(Finaîoj pleonasmaj\)
+
+Patro kaj frato. — Leono estas besto. — La patro estas sana. — Leono estas forta. — Kiu kura¸as rajdi sur leono? 
+
+— Ÿi volas skribi. 
+
+La finaîo o en vorto frat'o estas neutila por la analizo, çar radiko frat entenas en si mem ideon de ‹persono› \(‹ulo›\), do ankaû la ideon substantivan ‹o›: frat = frat\(o\). Simile, radiko fort entenas ideon ‹ec'an›, do adjektivan: fort =
+
+fort\(a\). Fine, radiko skrib entenas ideon ‹ag'an›, do verban: skrib = skrib\(i\). Do, laû reg. 9-a la vortoj duelementaj frat'o, fort'a, skrib'i, estas redukteblaj je unu elemento: frat, fort, skrib. 
+
+Nu, la vortojn frat, fort, skrib, oni ne bezonas analizi plu, çar ili estas simplaj vortoj, kies signifon oni trovas en la Univ. Vort. Tamen, tiujn vortojn oni povas ankaû analizi per reg. 11-a kaj 10-a: frat = frat\(ul\)\(o\) = ‹ulo frat›; skrib
+
+= skrib\(ag\)\(i\) = ‹agi skrib›, ‹fari agon skrib›; fort =
+
+fort\(ec\)\(a\) = ‹kiu havas econ fort›. 
+
+§4. \(Finaîoj o, a, i, e\)
+
+La ekstero de tiu çi homo estas pli bona, ol lia interno. —
+
+Mi havas centon da pomoj. — Januaro estas la unua mo-nato de la jaro. — Venu kune kun la patro. 
+
+La vortoj duelementaj ekster'o, unu'a, kun'e, ktp., estas neredukteblaj je unu elemento, çar radikoj kiel ekster, unu, kun, ktp., enhavas ideon nek substantivan, nek ad-15
+
+VORT-TEORIO
+
+eLIBRO
+
+jektivan, nek verban, nek eç adverban. Tiuj vortoj estas vere kunmetitaj vortoj, konsistantaj el du simplaj vortoj \(ekster kaj o\). 
+
+Kiel tipan ekzemplon de tiaj vortoj, oni povas elekti la vortfamilion: çirkaû'o, çirkaû'a, çirkaû'i, çirkaû'e. 
+
+Nu, la ideon substantivan ‹o› Zamenhof difinis1 per la vortoj ‹kio estas, ekzistas›. Do, laû regulo 10-a: çirkaû'o =
+
+‹o çirkaû› = ‹kio estas, ekzistas çirkaû›. — Oni povus ankaû difini la ideon substantivan ‹o›, kiel ¸eneralan ideon de
+
+‹aî'o› \(konkreta aû abstrakta\). Sekve, laû reg. 11-a: çirkaû'o
+
+= çirkaû'\(aî\)o = ‹aîo \(konkreta aû abstrakta\) çirkaû›. 
+
+La ideon adjektivan ‹a› oni povas difini per la vortoj ‹kiu estas›. Do laû reg. 10-a: çirkaû'a = ‹a çirkaû› = ‹kiu estas çirkaû›. — La ideon adjektivan oni povas ankaû konsideri kiel ideon ‹ec'an› aû ‹rilat'an›. Sekve, laû reg. 11-a: çirkaû'a
+
+= çirkaû'\(ec\)a aû çirkaû'\(rilat\)a = ‹rilata al çirkaû›. 
+
+La ideo verba ‹i› estas ideo de ‹ag'o› aû de ‹stat'o›. Do, laû reg. 11-a kaj 10-a: çirkaû'i = çirkaû'\(ag\)i = ‹agi çirkaû›. 
+
+Fine, la ideo adverba ‹e› estas ideo de ‹manier'o›, kaj laû reg. 11-a kaj 10-a: çirkaû'e = çirkaû'\(manier\)e = ‹laû maniero çirkaû›. 
+
+1 Fund. Krest., p. 248. 
+
+16
+
+VORT-TEORIO
+
+eLIBRO
+
+§5. \(Sufikso in\)
+
+Petro, Anno kaj Elizabeto estas gefratoj. — Li fiançi¸is kun fraûlino Berto. 
+
+Li estas knabo, kaj ÿi estas knabino. — Mia onklino estas bona virino. — Mi havas bovon kaj bovinon. 
+
+En la radikoj, Bert, Elizabet, matron, ktp., sin kaÿas la ideo virinseksa ‹in›. Do, laû reg. 11-a kaj 10-a: Bert'o =
+
+Bert\(in\)'o = ‹ino Bert›; matron'o = matron\(in\)'o = ‹ino matron›, ‹ino \(el speco\) matron›, tute same kiel çeval'o =
+
+çeval\(best\)'o = ‹besto \(el speco\) çeval›. 
+
+Kontraûe, en la radikoj knab, onkl, Paûl, ktp., sin kaÿas nenia ideo virinseksa, sed ideo de ‹ul'o› \(homa aû besta\). 
+
+Sekve: knab'ino = knab\(ul\)'ino = ‹ino \(de\) ulo knab›. 
+
+§6. \(Sufikso il\)
+
+Oni metis antaû mi man¸ilaron, kiu konsistis el telero, kulero, forko, ktp. — Mia skribilaro konsistas el plumoj, krajono, ktp. — Tial mi prenis broson kaj purigis la veston. 
+
+Per hakilo ni hakas, per segilo ni segas, per fosilo ni fosas, per kudrilo ni kudras, ktp. 
+
+Radikoj fork, kuler, krajon, martel, ktp., entenas en si mem la pli ¸eneralan ideon de ‹il'o›; do, laû reg. 11-a kaj 10-a: fork'o = fork\(il\)'o = ‹ilo \(el speco\) fork›. 
+
+17
+
+VORT-TEORIO
+
+eLIBRO
+
+Kontraûe, radikoj hak, seg, fos, ktp., entenas ideon, ne de ‹il'o›, sed de ‹ag'o›, çar hak = hak\(i\) laû la U. V. Sekve, hak'ilo = hak\(i\)'ilo = ‹ilo \(por\) hak'i›, aû ‹ilo \(karakterizata per\) ago hak›. 
+
+§7. \(Sufikso ej\)
+
+La patro estas en la çambro. — Ili estas en la ¸ardeno. —
+
+Jam estas tempo iri domen. — Starante ekstere, li povis vidi nur la eksteran flankon de nia domo. 
+
+La edzi¸a soleno estos en la nova pre¸ejo. — La domo en kiu oni lernis, estas lernejo. — Çambro, en kiu oni tenas cigarojn, estas cigarejo. 
+
+La radikoj çambr, ¸arden, dom, ekster, Amerik, ktp., entenas en si ideon de ‹lok'o›, de ‹ej'o›, sekve: ¸arden'o =
+
+¸arden\(lok\)'o, Amerik'o = Amerik\(ej\)'o = ‹ejo, kontinento Amerik›; simile dom'en = dom\(lok\)'en, ekster'e =
+
+ekster\(lok\)'e, ktp. 
+
+Kontraûe la radikoj pre¸, lern, cigar, ktp., entenas en si ideon, ne de ‹lok'o›, sed de ‹ag'o›, de ‹aro›, ktp. Kun tiaj radikoj la sufikso ej ne estas pleonasma, kaj lern'ejo =
+
+lern\(ag\)'ejo = ‹ejo \(karakterizata per\) ago lern›, cigar'ejo
+
+= cigar\(aî\)'ejo = ‹ejo \(karakterizata per\) aîo cigar›, ktp. 
+
+18
+
+VORT-TEORIO
+
+eLIBRO
+
+§8. \(Sufikso uj\)
+
+Sur la kameno inter du potoj staras fera kaldrono. — En mia skribotablo sin trovas kvar tirkestoj. 
+
+Mia skribilaro konsistas el inkujo, sablujo . . . — Morti por la patrujo estas agrable. — La Rusoj lo¸as en Rusujo kaj la Germanoj en Germanujo. 
+
+En la radikoj pot, kaldron, kest, ktp., sin kaÿas la ideo de
+
+‹uj'o›, sekve: pot'o = pot\(uj\)'o = ‹ujo \(el speco\) pot›. La ideo
+
+‹uj› sin kaÿas ankaû en çiuj nomoj de ‹landoj› aû ‹kon-tinentoj›, \(konsiderataj kiel ‹ujo› de siaj lo¸antoj\). Ekzemple: Amerik'o = Amerik\(uj\)'o = ‹ujo, kontinento
+
+,Amerik›. 
+
+Kontraûe, en la radikoj ink, sabl, patr, Rus, German, ktp., sin kaÿas ideo ne de ‹uj'o› sed de ‹aî'o›, de ‹ul'o›, de
+
+‹an'o› \(gentano\), ktp. Kun tiaj radikoj la sufikso uj ne estas pleonasma, kaj oni havas: sabl'ujo = sabl\(aî\)'ujo = ‹ujo \(por\) aîo sabl›, Rus'ujo = Rus\(gentan\)'ujo = ‹ujo, lando \(karakterizata per la\) gentanoj Rus›. 
+
+§9. \(Sufikso an\)
+
+Francoj, kiuj lo¸as en Rusujo estas Rusujanoj, kvankam ili ne estas Rusoj. 
+
+La ÿipanoj devas obei la ÿipestron. — Luteranoj kaj Kalvinanoj estas Kristanoj. — La Parizanoj estas gajaj homoj. 
+
+19
+
+VORT-TEORIO
+
+eLIBRO
+
+En la radikoj Angl, Franc, German, Hebre, ktp., sin kaÿas la ¸enerala ideo de ‹person'o› \(ul aû an\), kaj ankaû la speciala ideo de ‹gent'o›, aû de ‹regn'o›, sekve: Franc'o =
+
+Franc\(gentan\)'o aû Franc\(regnan\)'o = ‹ano \(de la\) gento aû \(de la\) regno Franc›. 
+
+Kontraûe, en la radikoj ÿip, Krist, Pariz, ktp., sin kaÿas ideo ne de ‹an'o› sed de ‹aro›, de ‹estr'o› \(religiestro\), de
+
+‹ej'o› \(urbo\), ktp. Ankaû en la nomoj de landoj aû kon-tinentoj, kiel Afrik, Amerik, Aûstrali, Azi, Ekvator, Eûrop, Uson, ktp., sin kaÿas ideo ne de ‹\(gent\)ano› sed de
+
+‹ej'o› \(regiono\). Kun tiaj radikoj la sufikso an ne estas pleonasma, kaj oni havas: ÿip'ano = ÿip\(aî\)'ano = ‹ano \(de la\) aîo ÿip›, Eûrop'ano = Eûrop\(ej\)'ano = ‹ano \(lo¸anto\) de la ejo Eûrop›.1
+
+§10. \(Sufikso estr\)
+
+La filoj, nepoj kaj pranepoj de re¸o estas re¸idoj. 
+
+La ÿipanoj devas obei la ÿipestron. — Nia provincestro estas severa, sed justa. — Nia regimentestro estas por siaj soldatoj kiel bona patro. 
+
+Sufikso estr entenas en si du ideojn: ¸eneralan ideon de
+
+‹persono› \(ul\) kaj specialan ideon de ‹çefeco›, ‹komande-co›; sekve: estr'o = ‹çef'o›, ‹komand'ul'o›. La radikoj re¸, kolonel, kapitan, ktp., entenas en si mem la ideon de 1 Se ekzistas dubo, çu la ideo kaÿita en tia radiko estas ideo de
+
+”land'o” aû de ”landan'o”, la dubo povas esti forigita nur per la Oficiala Vortaro. Vidu ankaû la rimarkon çe fino de §12. 
+
+20
+
+VORT-TEORIO
+
+eLIBRO
+
+‹estr'o›; ekzemple re¸'o = re¸\(estr\)'o = ‹estro \(el speco\) re¸›. 
+
+Kontraûe, radikoj ÿip, provinc, regiment, ktp., entenas en si ideon, ne de ‹estro›, sed de ‹objekto›, de ‹loko›, de
+
+‹aro›, ktp., kaj provinc'estro = provinc\(lok\)'estro = ‹estro \(de\) loko provinc›. 
+
+§11. \(Sufikso ist\)
+
+La patro estas tajloro. — Laû la projekto de la in¸enieroj tiu çi fervojo estas konstruota en la daûro de du jaroj. 
+
+Kiu okupas sin je meąniko, estas meąnikisto, kaj kiu okupas sin je ęmio, estas ęmiisto. — Diplomatiiston oni povas ankaû nomi diplomato. — Tiu çi komercisto aldonas senpage funton da sukero. 
+
+Sufikso ist entenas en si du ideojn: la ¸eneralan ideon de
+
+‹persono› \(ul\) kaj la specialan ideon de ‹profesio› \(aû ‹karakteriza okupo›\). Sekve: ist'o = ‹profesi'ul'o› = ‹persono, kies profesio estas›. 
+
+Nu, en la radikoj tajlor, in¸enier, diplomat, ktp., sin kaÿas la ideo de ‹ist'o›. Do, diplomat'o = diplomat\(ist\)'o
+
+= ‹isto \(el speco\) diplomat›, ‹profesiulo \(el speco\) diplomat›. 
+
+Kontraûe, en la radikoj ęmi, diplomati, komerc, ktp., sin kaÿas nenia ideo de ‹ist'o›, sed ideo de ‹scienc'o›, de
+
+‹art'o›, de ‹ag'o›, ktp. Ekzemple: diplomati'isto = diplomati\(art\)'isto = ‹persono, kies okupo \(estas la\) arto diplo-21
+
+VORT-TEORIO
+
+eLIBRO
+
+mati›; komerc'isto = komerc\(ag\)'isto = ‹persono, kies okupo \(estas la\) ago komerc›. 
+
+§12. \(Sufikso ul\)
+
+Infano ne estas matura homo. — La filo staras apud la patro. — Mi konas Johanon. — La birdoj flugas. 
+
+La riçulo havas multe da mono. — Malsa¸ulon çiu batas. — Timulo timas eç sian propran ombron. 
+
+Radikoj hom, infan, Johan, bird, ktp., entenas en si mem ideon de ‹persono› aû de ‹viva estaîo›, esprimeblan per sufikso ul, Do: hom'o = hom\(ul\)'o = ‹ulo \(el speco\) hom›. 
+
+Kontraûe radikoj riç, grand, ktp., entenas, ne la substantivan ideon de ‹persono›, sed la adjektivan ideon de
+
+‹ec'o›. Sekve: grand'ulo = grand\(ec\)'ulo = ‹ulo \(karakterizata per\) eco grand›. Simile: tim'ulo = ‹ulo \(karakterizata per\) stato tim›, çar radiko tim entenas la verban ideon de
+
+‹stat'o›. 
+
+Rimarko. Se oni havas dubon pri la naturo de la ideo entenata en iu radiko, oni ¸in trovas en la U. V., kiu liveras la tradukon de çiu simpla vorto en diversajn naciajn lingvojn. 
+
+Per tiuj tradukoj oni konstatas ekzemple, ke radiko nobel entenas ideon de ‹persono› \(nobelaro estas kategorio da personoj\), do nobel'o = nobel\(ul\)'o = ‹ulo \(el speco, el kategorio\) nobel›. Kontraûe, radiko nobl esprimas ‹ec'on›, do nobl'o = nobl\(ec\)'o, sekve nobl'ulo = nobl\(ec\)'ulo =
+
+‹ulo \(karakterizata per\) eco nobl›. 
+
+22
+
+VORT-TEORIO
+
+eLIBRO
+
+§13. \(¯enerala sufikso substantiva aî\)
+
+Rozo estas floro. — La suno brilas. — Jen estas pomo. —
+
+Antaû la domo staras arbo. — Papero estas blanka. 
+
+Akvo estas fluidaîo. — Tiu çi granda altaîo ne estas natura monto. — Mi neniam prenas kun mi multon da pakaîo. — Mi trinkis teon kun kuko kaj konfitaîo. 
+
+Çiuj vortoj substantivaj \(roz, pom, dom, ing, er, ar, ktp.\) entenas en si mem la ¸eneralan ideon de ‹aî'o› \(konkreta aû abstrakta\). Ekzemple: pom'o = pom\(aî\)'o = ‹aîo \(konkreta\) pom›, ‹konkretaîo pom›. 
+
+Kontraûe radikoj nesubstantivaj, kiel fluid, alt, pak, ktp., entenas nenian ideon de ‹aî'o›, sed aliajn ideojn \(‹ec'an›, ‹ag'an›, ktp.\). Ekzemple: fluid'aîo = fluid\(ec\)'aîo
+
+= ‹aîo \(karakterizata per\) eco fluid›; pak'aîo = pak\(ag\)'aîo
+
+= ‹aîo \(karakterizata per\) ago pak›. 
+
+Rimarko. Kvankam radikoj substantivaj entenas en si mem ideon de ‹aî'o›, oni tamen povas uzi sufikson aî post radiko substantiva, çar pleonasmoj çiam estas permesataj por plifortigi la ideon \(reg. 4-a\). La ripeto de la ideo aldonas al la vorto sencon pli konkretan, pli individuan ol antaûe. 
+
+Ekzemple: vorto glaci'aîo esprimas objekton pli konkretan, pli individuan ol vorto glaci'o, kiu montras nur ¸eneralan ‹aîon materian›, ‹materion›, dum glaciaîo montras
+
+‹individuan pecon› eltiritan aû faritan çefe el tiu materio. 
+
+23
+
+VORT-TEORIO
+
+eLIBRO
+
+§14. \(¯enerala sufikso adjektiva ec\)
+
+Oni diras, ke la vero çiam venkas. — Mi sopiras je mia perdita feliço. — Tiu çi rivero havas ducent kilometrojn da longo. — La re¸ido konsideris, ke tia kapablo havas pli grandan indon . . . 
+
+Lia heroeco tre plaçis al mi. — Mi vivas kun li en granda amikeco. — Se la bonsoneco postulas . . . 
+
+La vortoj ver, feliç, ind, ktp., entenas en si mem ideon ‹adjektivan›, do ‹ec'an›. Sekve: ver'o = ver\(ec\)'o = ‹eco ver›; ind'o = ind\(ec\)'o = ‹eco ind›. 
+
+Kontraûe la vortoj hero, amik, hom, ktp., entenas ideon, ne de ‹ec'o›, sed de ‹ul'o›. Do: hero'eco = hero\(ul\)'eco
+
+= ‹eco \(karakterizata per\) ulo hero›. 
+
+Rimarko 1. La fakto, ke la ideo ‹adjektiva› estas ideo ‹ec'a›, 
+
+‹kvalit'a›, montras, ke la finaîo a estas sinonimo de sufikso ec, aû de radiko kvalit; kaj efektive: hom'eca, hom'kvalita, estas nur pleonasmaj formoj de hom'a. Per interÿan¸o de sufikso ec kun finaîo a, oni povas do teorie skribi: ho-m'ec'o = hom'a'o, kaj tiu egalaîo montras, ke la vorto homeco estas simpla substantivigo de la adjektivo homa, same kiel bel'o estas substantivigo de adjektivo bel.1
+
+Rimarko 2. Kvankam çiuj radikoj adjektivaj entenas ideon
+
+‹ec'an› en si mem, oni tamen povas uzi sufikson ec post radiko adjektiva, çar pleonasmoj çiam estas permesataj por 1 Komparu la vortfamiliojn; bel, bel'o \(Fr. beau, beau-té\) kaj hom, hom'a, ham'a'o \(Fr. homme, hum-ain, hum-an-ité\). 
+
+24
+
+VORT-TEORIO
+
+eLIBRO
+
+plifortigi la ideon \(reg. 4-a\) \(ekz.: ‹Li amas tiun çi knabinon pro ÿia beleco kaj boneco›\). La diferenco inter bel'o kaj bel'eco estas tute simila je la diferenco inter pom'o kaj pom'frukto, çar la ideo ‹ec› estas entenata en bel, kiel la ideo ‹frukt› estas entenata en pom. — Oni povas ankaû diri, ke en la ideo de ‹ec'o› sin kaÿas la pli ¸enerala ideo de
+
+‹abstrakt'o›, same kiel en la ideo de ‹frukt'o› sin kaÿas la pli
+
+¸enerala ideo de ‹aî'o› \(çiuj ‹fruktoj› estas ‹aîoj›, sed ne çiuj aîoj estas fruktoj; simile, çiuj ‹ecoj› estas ‹abstraktoj›, sed ne çiuj abstraktoj estas ecoj\). Do: bel'o = bel\(ec\)\(abstrakt\)'o, same kiel pom'o = pom\(frukt\)\(aî\)\(o\), kaj sekve: bel'o = ‹abstrakto bel› aû ‹eco bel›, same kiel pom'o = ‹aîo pom› aû ‹frukto pom›. Oni povas do akcepti la du formojn: belo = ‹abstrakto bel› kaj beleco = ‹eco bel›, sed tiuj du signifoj ne estas malsamaj; la unua havas nur sencon pli
+
+¸eneralan, ol la dua. — Tamen estas konsilinde ne uzi sennecese la sufikson ec post radiko adjektiva \(principo de sufiço\). En la Fund. Krest. Zamenhof uzas konstante la simplajn formojn: utilo, kapablo, indo, eblo, emo, ktp., kaj preskaû neniam la pli pezajn formojn: utileco, kapa-bleco, indeco, ktp. 
+
+§15. \(¯enerala sufikso verba: ad\)
+
+La kanto de la birdoj estas agrabla. — ¯ojan feston\! — ”Vi tute ne estas ¸entila,” diris la feino sen kolero. — Li estas de meza kresko. — Mi malbonigis mian tutan laboron. 
+
+— Mi aûdis du pafojn. — Lia hieraûa parolo estis tre bela. 
+
+25
+
+VORT-TEORIO
+
+eLIBRO
+
+Por ¸ia absoluta re¸ado unuanime staris çiuj regista-roj . . .1 — La pazigrafio, kiu ankaû estas fondita sur la numerado de la vortoj . . .2 — La lingvo internacia ne povas malfortigi la lingvojn naciajn, sed kontraûe devas konduki al ilia plena ekflorado.3
+
+La vortoj kant, paf, koler, ktp., entenas en si mem ideon
+
+‹verban› do ‹ag'an› aû ‹stat'an›. Sekve: kant'o = kant\(ag\)'o
+
+= ‹ago kant›; koler'o = koler\(stat\)'o = ‹stato koler›. 
+
+Kontraûe la vortoj re¸, numer, flor, ktp., entenas ideon, ne de ‹ag'o› aû ‹stat'o›, sed de ‹ul'o›, de ‹aî'o›, ktp. Do, en vorto re¸'ad'o, ekzemple, la ideo ‹ag'a› estas esprimata per sufikso ad, kaj nur per sufikso ad, çar, se oni forigas tiun sufikson, restas la vorto re¸'o, kiu entenas en si nenian ideon ‹ag'an›. Sufikso ad estas do sinonima de la verba ideo
+
+‹ag› \(fari agon\), aû ‹stat› \(esti, i¸i en stato\), kaj sekve: re¸'ado = ‹ago \(karakteriza de\) re¸\(o\)›; flor'ado = ‹stato \(karakterizata per\) flor\(oj\)›. 
+
+Rimarko 1. La verba ideo estas ankaû esprimebla per finaîo i. Sekve, sufikso ad ankaû estas sinonimo de finaîo i. Oni povas do teorie skribi: re¸'ad'o = re¸'i'o, kaj tiu egalaîo montras, ke la vorto re¸ado estas simpla substantivigo de la verbo re¸i, same kiel skrib'o estas substantivigo de la verbo skrib4. 
+
+1 Fund. Krest., p. 299-a. 
+
+2 Fund. Krest., p. 260-a. 
+
+3 Fund. Krest., p. 276-a. 
+
+4 Komparu la vortfamiliojn: skrib, skrib'o \(Fr. écrire, écri-ture\) kaj flor, flor'i, flor'i'o \(Fr. fleur, fleur'ir, flor'ai'son\). 
+
+26
+
+VORT-TEORIO
+
+eLIBRO
+
+Rimarko 2. Kvankam çiuj radikoj verbaj entenas en si mem ideon de ‹ad'o›, oni tamen povas uzi sufikson ad post radiko verba, çar pleonasmoj çiam estas permesataj por plifortigi la ideon \(reg. 4-a\), aû por montri nuancojn de senco \(ekz.: ‹Li kantas tre belan kanton. — La kantado estas agrabla okupo›\). Efektive, en radiko kant sin kaÿas ideo
+
+‹ag'a›, ideo ‹verba›, sed ne ‹tempa›; do, kanto povas rilati tiel bone al ago pasinta \(rezulto de ago\) kiel al ago nuna. 
+
+Kiam do oni volas diferencigi la agon mem de ¸ia rezulto, oni plifortigas la ideon de ‹ago daûranta› per ripeto de la ideo ‹ad›. Ekzemple: fend'o = ‹rezulto de ago fend›, t. e. 
+
+‹la aro da impresoj, kiuj rezultas de la ago fend› dum fend'ad'o montras la agon mem konsideratan dum ¸ia daûro. Tamen, oni ne devas sennecese uzi sufikson ad post radiko verba \(principo de sufiço\), çar plej ofte la ago ne estas distingebla de ¸ia rezulto. 
+
+Oni povas tie çi ankaû rimarki, ke ideo de ‹ag'o› estas ideo ‹abstrakt'a›, do en radiko verba kiel skrib sin kaÿas la ideoj skrib\(ag\)\(abstrakt\); kaj sekve oni havas: skrib'o =
+
+‹ago skrib› aû ‹abstrakto skrib›, kiel oni havas pom'o =
+
+‹frukto pom› aû ‹aîo pom›. 
+
+Rimarko 3. La lastaj du paragrafoj montras, ke la adjektiva ideo \(a, ec\) kaj la verba ideo \(i, ad\) estas simetriaj rilate al la substantiva \(o, aj, ul\). Ekzemple, de la substantivo re¸\(o\) oni formas per adjektivigo la vortfamilion: re¸, re¸'a, re¸'a'o = re¸'ec'o, kaj per verbigo la familion: re¸, re¸'i, re¸'i'o = re¸'ad'o. 
+
+27
+
+VORT-TEORIO
+
+eLIBRO
+
+§16. \(Verbo-adjektivoj\)
+
+Lakto estas pli nutra ol vino. — El via buÿo eliros aû floro aû multekosta ÿtono. — Post infekta malsano oni bruligas la vestojn de la malsanulo. — Kia ¸oja festo\! — Li estas hodiaû en kolera humoro. — Ligno estas bona brula ma-terialo. 
+
+Verbo-adjektivo, kiel nutr'a konsistas el du partoj: la parto verba \(nutr\), kiu entenas ideon ‹i›, kaj la parto adjektiva \(a\), kiu entenas ideon ‹ec'an› aû ‹rilat'an›. Sekve, nutr'a =
+
+nutr\(i\)'\(ec\)a = ‹kiu havas econ nutri›. Se la verbo estas neû-
+
+tra, ¸i entenas ideon de ‹stat'o›: koler'a = koler\(stat\)'a =
+
+‹kiu estas en stato koler›. 
+
+Oni vidas, ke ne ekzistas granda diferenco inter nutr'a kaj nutr'ant'a, koler'a kaj koler'ant'a, ktp. Tamen oni povas fari du rimarkojn: en la formoj nutranta, koleranta, ktp., la çefa ideo estas la ideo de ago, aû stato \(ideo ‹tempa› alportita de sufikso ant\), dum en la formoj nutra, kolera, la çefa ideo estas la adjektiva ideo de ‹ec'o› \(ideo ne-tempa\); ekzemple, oni povas diri: ‹tiun çi jaron nia aga komitato estis tute ne aganta›. Oni devas ankaû atenti, ke en verbo-adjektivoj, la verbo povas esti prenata en senco aktiva, aû en senco pasiva; ekzemple: suspekt'a signifas suspekt'at'a, kaj ne suspekt'ant'a. 
+
+Do, verbo-adjektivon oni povas uzi nur se la aktiveco aû pasiveco de la verbo estas jam evidenta per si mem \(aû per la kunteksto\). 
+
+28
+
+VORT-TEORIO
+
+eLIBRO
+
+§17. \(Sufiksoj em, ind, ebl\)
+
+Lia edzino estas tre laborema kaj ÿparema, sed ÿi estas ankaû tre babilema kaj kriema. — Li estas homo nekredin-da. — Via ago estas tre laûdinda. — Ÿtalo estas fleksebla. 
+
+— Vitro estas rompebla kaj travidebla. 
+
+La signifo de la verbo-adjektivoj estas iom malpreciza, sed ekzistas en Esperanto tri adjektivaj sufiksoj \(em, ind, ebl\), kiuj estas uzataj speciale kun verbaj radikoj, kaj tiuj sufiksoj povas, kiam necese, precizigi la signifon de la verbo-adjektivoj. Ekzemple, anstataû diri: ‹Lia edzino estas tre ÿpara, Zamenhof uzis la pli precizan formon ‹ÿparema›, kaj laû reg. 10-a oni havas: ÿpar'ema = ÿpar\(i\)'ema = ‹ema ÿpar\(i\)›. 
+
+La sufiksoj ind kaj ebl havas similan celon, sed ili donas al la verba radiko sencon pasivan. Do: kred'inda = ‹inda esti kredata› \(kaj ne: ‹inda kredi›\); fleks'ebla = ‹ebla esti fleksata›, aû ‹kiu povas esti fleksata›. Tiujn sufiksojn oni povas uzi nur kun verboj aktivaj, çar verboj neûtraj ne posedas formon pasivan. Do, oni ne diru brul'ebla sed brulig'ebla. 
+
+§18. \(Pri regulo 12-a\)
+
+Vortoj kunmetitaj estas kreataj per simpla kunligado de vortoj. Ekzemploj: skribtablo, aû skribotablo \(= tablo, sur kiu oni skribas\); internacia \(= kiu estas inter diversaj nacioj\); tutmonda \(= de la tuta mondo\); unutaga \(= kiu 29
+
+VORT-TEORIO
+
+eLIBRO
+
+daûras unu tagon\); unuataga \(= kiu estas en la unua tago\); vaporÿipo \(= ÿipo, kiu sin movas per vaporo\); ma-tenman¸i, tagman¸i, vesperman¸i; abonpago \(= pago por la abono\). 
+
+Oni vidas, ke la ideoj kaÿitaj inter la du partoj de vorto kunmetita estas tre diversaj; tamen, laû reg. 12-a oni povas traduki ilin per la ¸enerala esprimo ‹karakterizata per›. 
+
+Ekzemple, en radiko skrib ekzistas la verba ideo de ‹ag'o›, do: skrib'tablo = skrib\(ag\)'tablo = ‹tablo \(karakterizata per\) ago skrib›. 
+
+Oni povas ankaû uzi, anstataû la esprimo ‹karakterizata per›, la prepozicion ‹je›, çar tiu vorteto esprimas nur ¸eneralan ideon de rilato. Ekzemple: herbo'riça = ‹riça \(je\) herbo›. 
+
+Fine, oni rimarku, ke en kunmetita vorto la unua parto de la vorto kvalitigas, specigas la ideon esprimitan de la dua parto. Do, oni povas ankaû diri, ke inter la du partoj de la analizata vorto sin kaÿas ideo ‹adjektiva› aû ‹adverba›. Ekzemple: maten'man¸o = maten'\(a\)'man¸o = ‹man¸o maten'a›, aû ‹matentemp'a› \(çar la ideo ‹temp› ekzistas en radiko maten\). Simile: maten'man¸i = maten'\(e\)'man¸i =
+
+‹man¸i maten'e, matentemp'e›. 
+
+30
+
+VORT-TEORIO
+
+eLIBRO
+
+§19. \(Sekvo\)
+
+Malfeliço ofte kunigas la homojn. — Mi ¸in tuj redonis al li. — Kie estas la trançiloj? — La angla re¸o vidinte ¸ibu-lon . . .1 — Por kroni tiujn çi dek ok jarojn . . .2
+
+La reg. 12-a estas aplikebla ne nur al radikoj, sed ankaû al prefiksoj, sufiksoj, kaj eç al finaîoj, çar tiuj çi ankaû estas memstaraj vortoj \(reg. 3-a\). Ekzemple: re'dono =
+
+re'\(a\)'dono = ‹dono re'a›; re'doni = re'\(e\)'doni = ‹doni re'e›; tranç'ilo = tranç'\(a\)'ilo = ‹ilo tranç'a›, aû per la alia metodo: ‹ilo \(karakterizata per\) ago tranç›; simile: ¸ib'ulo
+
+= ‹ulo ¸ib'a›, aû ‹ulo \(karakterizata per\) aîo ¸ib›. Fine kron'i
+
+= ‹i kron›, nu: i = \(ag\)i = ‹fari agon›, kaj kron = kron\(aî\)\(o\)
+
+= ‹aîo kron›; do: kron'i = ‹fari agon \(karakterizatan per\) aîo kron›. 
+
+Rimarko. Oni vidas, ke la ofte kritikitaj vortoj flank'i¸i, kun'meti, bon'voli, el'paroli, estas tute bonaj, çar ili signifas, ne ‹i¸i flank\(o\)›, ‹meti kun›, ‹voli bon\(a\)›, ‹paroli el›, sed: ‹i¸i flank'e›, ‹meti kun'e›, ‹voli bon'e›, ‹paroli el'e›, t. e.:
+
+‹paroli laû maniero el \(la buÿo\)›.1
+
+Kontraûe, la vorto el'rigardi \(G. aus'sehen\) estas malbo-na. La regula formo estus el'vidi¸i, sed preferinde estas uzi la vorton aspekti, kiu estas nun oficialigita \(vidu Oficiala Aldono'n al U. V.\). 
+
+1 Fund. Krest., p. 83. 
+
+2 Fund. Krest., p. 105. 
+
+31
+
+VORT-TEORIO
+
+eLIBRO
+
+§20. \(Rimarko pri reg. 10-a\)
+
+Mil jaroj faras miljaron. — Li estas nur unufoja menso-ginto. — La animo estas senmorta. 
+
+Kiam en kunmetata vorto unu elemento estas la komplemento de prepozicio, de adjektivo aû de nombro, oni devas ne apliki la reg. 10-an pri renverso de la vortordo; kaj tio estas komprenebla, çar elementon kun ¸ia komplemento oni devas rigardi kiel unu tutaîon. Ekzemple: submar'a =
+
+‹a sub mar› = ‹kiu estas sub mar \(sub maro\)›, miljar'o2 =
+
+‹o miljar› = ‹kio estas miljar \(mil jaroj\)›, enam'i¸i = ‹i¸i enam \(en amo\)›, çiutag'e = ‹e çiutag› = ‹laû maniero çiutag \(çiu tago\)›, siavic'e =›e siavic› = laû maniero siavic \(sia vico\)›, grandanim'eco = ‹eco grandanim \(granda animo\)›. 
+
+Kontraûe, la vorto kun'igo sekvas la le¸on de renverso kaj signifas laû reg. 10': ‹igo kun\(a\)›, çar tie çi la substantivo igo ne estas komplemento de la prepozicio kun. 
+
+Rimarko. El tio sekvas, ke vorton kunmetitan oni çiam povas dividi en du partojn \(reg. 14-a\), sed ne arbitre. Ekzemple, la vorton internacia oni devas legi: internaci'a \(kaj ne inter'nacia\). Oni havas do per reg. 10-a: inter-1 Cetere, en Germana lingvo oni ankaû diras: aus'sprechen, kaj en Franca aû en Angla: e'locution \(de la Latina loqui, ”paroli”\). 
+
+2 La sola diferenco inter miljaro kaj mil jaroj estas, ke ”miljaro” 
+
+formas unu tutaîon; la diferenco aperas pli klare en la vortoj: triangulo kaj tri anguloj. Kelkaj aûtoroj uzas la formojn jarmilo, jarcento, spesmilo, spesdeko; tamen pli ¸uste estas trakti la nombrojn kiel la prepoziciojn kaj diri: centjar'o, milspes'o, dekspes'o, ktp. 
+
+32
+
+VORT-TEORIO
+
+eLIBRO
+
+naci'a = ‹a internaci› = ‹kiu estas inter naci\(oj\)›; tutmond'a
+
+= ‹a tutmond› = ‹kiu rilatas al tut\(a\) mond\(o\)›; unutag'a =
+
+unutag\(daûr\)'a = ‹daûra, aû daûranta unu tag\(on\)›. 
+
+§21. \(Participo-substantivoj\)
+
+Kiam Nikodemo batas Jozefon, tiam Nikodemo estas la batanto kaj Jozefo estas la batato. — Homo, kiun oni devas ju¸i, estas ju¸oto. — Argumentoj, kiuj estas plenigi-taj per multo da citatoj . . .1
+
+La participaj sufiksoj entenas, krom la ideo participa, la
+
+¸eneralan ideon verban de ‹ag'o› aû ‹stat'o›. Ekzemple, —
+
+en la vorto kron'ant'o la ideo ‹ag'a› estas entenata en sufikso ant, kaj nur en tiu sufikso, çar, se oni ¸in forigas, restas nur la vorto kron'o, kiu entenas nenian ideon ‹ag'an›. 
+
+Oni do havas: ant'o = \(ag\)ant'o kaj at'o = \(ag\)at'o. 
+
+Nu, la finaîo o signifas ‹aîon› konkretan aû abstraktan. 
+
+Do, ant'o povas signifi ant'\(ul\)o aû ant'\(aî\)o kaj kelkafoje eç ant'\(ec\)o2. Kutime: \(ag\)antoj estas ul'oj, kaj \(ag\)atoj estas aî'oj. Ekzemple: bat'ant'o = bat'ant'\(ul\)o = ‹ulo batant\(a\)›; cit'at'o = cit'at'\(aî\)o = ‹aîo citat\(a\)›. Tamen, tiu çi regulo estas nefirma, kaj la precizan sencon de participo-substantivo oni povas fiksi nur per la kunteksto, aû per aldono de klariga sufikso: kon'at'ul'o, est'ont'aî'o \(principo de neceso\). 
+
+1 Fund. Krest., p. 274. 
+
+2 Ekzemple: est'ont'o = est'ont\(temp\)'o \(= tempo estonta\). 
+
+33
+
+VORT-TEORIO
+
+eLIBRO
+
+§22. \(Influo de la kunteksto\)
+
+La korpo estas morta, la animo estas senmorta. — Kelkaj \(termitoj\) konstruas tureton el tero, tiel ke la konstruo estas tre simila je fungo.3 — Mia kara, mia belo, estis bra-va juna dano.4
+
+La signifon de vorto fiksas la vorto mem, sed ¸ian sencon fiksas la kunteksto, çar per la kunteksto ideo per si mem konkreta povas esti prenata en senco abstrakta, aû reciproke \(reg. 6-a\). Ekzemple, en la frazoj cititaj çi supre, la konkretaj ideoj ‹korpo›kaj ‹animo› estas prenataj en senco abstrakta, ¸enerala. Reciproke, la abstraktaj ideoj konstruo \(‹ago konstru›\) kaj belo \(‹eco bel›\) estas prenataj en senco konkreta konstru\(aî\)o, bel\(ul\)o. Oni povas diri, ke la neesprimitaj ideoj konkretaj aî kaj ul estas kaÿitaj en la kunteksto \(reg. 13-a\). 
+
+Rimarko. Tiuj ÿan¸oj de senco pere de la kunteksto estas kompreneblaj en poezio, sed en prozo oni devas ne trouzi ilin. Tamen, eç en prozo, la multnombra formo ofte sufiças por konkretigi ideon abstraktan; ekzemple, la senco de la vorto malfeliço per si mem estas abstrakta \(‹eco malfeliç›\), sed tiu de la multnombro \(malfeliçoj\) povas esti nur konkreta, \(‹malfeliçaîoj›\), çar multnombro povas rilati nur al individuaîoj, do al konkretaîoj. 
+
+La kunteksto ankaû decidas, çu la vorto devas esti prenata en senco propra aû en senco figura. Ekzemple, en la 3 Fund. Krest., p. 222-a. 
+
+4 Hamleto, p. 123, trad. de Zamenhof. 
+
+34
+
+VORT-TEORIO
+
+eLIBRO
+
+frazo: ‹La ÿiparo konsistis el dek trimastuloj›, la sufikso ul estas prenata en senco figura, çar en senco propra tiu sufikso rilatas nur al ‹vivaj› estaîoj. 
+
+§23. \(Sekvo\)
+
+En tiuj çi boteloj sin trovas diversaj acidoj: vinagro, sul-furacido, azotacido kaj aliaj. 
+
+La esprimo ‹kunteksto› rilatas ne nur al la frazo, kiu çir-kaûas la vorton analizotan, sed ankaû al çiuj aliaj cirkonstancoj, en kiu tiu vorto trovi¸as. Ekzemple, en çiu fako de la scienco, la senco de iu vorto povas esti influata de la cirkonstanco, ke ¸i estas speciale uzata en tiu fako; alivorte, multaj vortoj povas esti prenataj, ne nur en senco komuna, sed ankaû en senco teknika. 
+
+Ekzemple, laû la U. V. radiko acid entenas en si ideon adjektivan \(ec'an\), do la komuna senco de la vorto acid'o estas abstrakta: acid'o = acid\(ec\)'o = ‹eco acid›, kiel oni povas konstati en la frazo: ‹Kion vi preferas: la dolçon aû la acidon?›. 
+
+Tamen, en ęmio la vorto acido alprenas sencon konkretan \(‹aîo acid›\), por eviti en tiu scicnco la konstantan ripeton de la sufikso aî; cetere, la teknika senco de la vorto acido estas ideo pli speciala, pli preciza ol aci-daîo. Simile, laû la U. V. la radikoj rekt, eben, ktp., entenas ideon adjektivan \(ec'an\), do la komuna senco de la vortoj rekto, ebeno estas abstrakta \(‹eco rekt›, ‹eco 35
+
+VORT-TEORIO
+
+eLIBRO
+
+eben›\); tamen en geometrio, la teknika senco de tiuj vortoj estas konkreta \(‹aîo rekt›, ‹aîo eben›\). Tiaj modi-foj de senco havas praktikan utilon kaj nenian malutilon, çar por esprimi la ideon ‹eco acid›, ‹eco rekt›, ktp., oni povas uzi la formojn pleonasmajn: acideco, rekte-co. 
+
+§24. \(Sekvo\)
+
+Kaj ni restos sensa¸aj kaj senhelpaj bestoj.1 — Eç la plej malriçaj kaj senkleraj vila¸anoj.2
+
+Per la esprimo ‹kunteksto› oni devas kompreni la diversajn cirkonstancojn, en kiuj trovi¸as ne nur la analizota vorto mem, sed ankaû ¸iaj diversaj partoj. Ekzemple, en la vortoj sensa¸a, senklera, ktp., la radikoj sa¸, kler, kvankam adjektivaj, estas prenataj en senco substantiva, çar ili estas tie çi komplemento de la prepozicio sen. Do: sensa¸'a = ‹a sensa¸› = ‹kiu estas sen sag\(o\)›, tute same kiel senfrukt'a
+
+= ‹kiu estas sen frukt\(o\)›. 
+
+Simile, en la vorto ekzercaro, la radiko ekzerc, kvankam verba, estas prenata en senco substantiva, çar gi estas tie çi komplemento de la vorto aro. Ekzerc'aro = ‹aro \(da\) ekzerc\(oj\)›, kiel ÿaf'aro = ‹aro \(da\) ÿaf\(oj\)›. 
+
+1 Fund. Krest., p. 277. 
+
+2 Fund. Krest., p. 300. 
+
+36
+
+VORT-TEORIO
+
+eLIBRO
+
+§25. \(Sufiksoj ig kaj i¸\)
+
+La bona virino trankviligis sian soifon. — Oni tiel malhel-pis al mi, ke mi malbonigis mian tutan laboron. 
+
+Li pali¸is de timo kaj poste li ru¸i¸is de honto. — En la printempo la glacio kaj la ne¸o fluidi¸as. 
+
+La sufiksoj ig kaj i¸ ambaû estas verbaj sufiksoj, çar ambaû esprimas verban ideon: sufikso ig signifas ‹doni econ›, kaj sufikso i¸, ‹akiri econ›. Tiuj sufiksoj estas do plej nature uzataj post radikoj ‹ec'aj›, ‹adjektivaj›: trankvil'igi = ‹igi trankvil›; pal'i¸i = ‹i¸i pal›. 
+
+§26. \(Verboj aktivaj\)
+
+Mi açetis por la infanoj tableton. — Sur lia viza¸o mi vidis ¸ojan rideton. — Kun bruo oni malfermis la porde-gon. 
+
+Post infekta malsano oni bruligas la vestojn. — Li ve-nigis el Berlino multajn librojn. — Mia onklo ne mortigis sin mem. — Sidigu vin, sinjoro\! 
+
+La verbaj radikoj açet, vid, ferm, ktp., enhavas en si mem ideon aktivan. Kontraûe, la radikoj brul, ven, mort, pend, sid, ktp., havas \(laû la U. V.\) sencon neûtran, sed per sufikso ig oni donas al ili sencon aktivan. Efektive: brul'igi =
+
+brul'\(a\)'igi = ‹igi brul'a ‹aû ‹brul\(ant\)'a›; pend'igi = ‹igi pend\(ant\)'a›, ktp. 
+
+37
+
+VORT-TEORIO
+
+eLIBRO
+
+Sufikso ig estas ankaû uzata post verbo aktiva, ekzemple: ‹Mi açetigis libron› signifas ‹Mi igis \(iun\) açet\(anta\)-
+
+libron›, aû: ‹Mi igis libron açet\(ata\) \(de iu\)›. 
+
+§27. \(Verboj neutraj\)
+
+La kura¸a maristo dronis en la maro. — Li sidas apud la tablo kaj dormetas. — Antaû nia militistaro staris granda serio da pafilegoj. 
+
+La juna vidvino fari¸is denove fiançino. — Baldaû ni vidis, ke ni trompi¸is. — Li eksciti¸as ofte çe la plej malgranda bagatelo. 
+
+La verbaj radikoj dron, sid, dorm, star, ktp., enhavas en si mem ideon neûtran. Kontraûe, la radikoj far, tromp, ekscit, ktp., havas \(laû la U. V.\) sencon aktivan, sed per sufikso i¸ oni donas al ili sencon neûtran. Efektive: far'i¸i
+
+= far'\(a\)'i¸i = ‹i¸i far'a› aû ‹far'\(it\)a›; ekscit'i¸i = ‹i¸i ekscit'\(at\)a›. 
+
+Sufikso i¸ estas ankaû uzata post verbo neûtra. Tia verbo montras ‹staton› \(ekz.: sidi, stari, pendi\); do pendi signifas ‹esti \(en stato\) pend\(anta\), kaj pend'i¸i = ‹i¸i \(en stato\) pend\(anta\)›. 
+
+Rimarko. La neûtrigo de verbo aktiva per sufikso i¸ estas ekvivalenta je verbo refleksa: ekscit'i¸i = ‹eksciti sin›, trov'i¸i = ‹trovi sin›, ktp. 
+
+38
+
+VORT-TEORIO
+
+eLIBRO
+
+§28. \(Sufiksoj senkarakteraj eg, et, aç, um\) En nia lando sin ne trovas montoj, sed nur montetoj. —
+
+La forno estis varmega; post du horoj ¸i estis nur iom varmeta. — Sur lia viza¸o mi vidis ¸ojan rideton. 
+
+La sufiksoj eg, et, aç, um, estas senkarakteraj, gramatike indiferentaj, çar en si mem ili entenas nenian ideon ¸eneralan: ili estas sufiksoj nek substantivaj, nek adjektivaj, nek verbaj: ankaû, nek konkretaj, nek abstraktaj. La sufiksoj eg kaj et respektive pliigas kaj malpliigas la ideon esprimatan de la vorto. Ekzemple: mont'o, mont'et'o, mont'eg'o; varm'a, varm'et'a, varm'eg'a; rid'i, rid'et'i, rid'eg'i. La sufikso aç aldonas al vorto sencon malestiman. Ekzemple: çeval'aç'o, bel'aç'a, rid'aç'i. La sufikso um ne havas difinitan signifon. ¯i estas uzata nur por diferencigi du eblajn sencojn de la sama vorto. Ekzemple: kalkan'o, kalkan'um'o; kruc'i, kruc'um'i.1
+
+1 Vortoj kiel orumi, butonumi estas nebonaj, çar tiuj vortoj havas la saman signifon kiel ori, butoni. 
+
+39
+
+VORT-TEORIO
+
+eLIBRO
+
+II. VORTSINTEZO
+
+La vortsintezo estas la konstruo de la vorto, kiu elvokas donitan ideon. Nu, por ‹doni ideon›, oni devas uzi vortojn, kaj tiuj vortoj formas frazon. Vortsintezo estas do simple: kunpremo de tuta frazo en unu vorton. ¯i estas procedo inversa je la vortanalizo, kiu estas: klarigo de unu vorto per tuta frazo da vortoj. 
+
+§29. \(Simplaj vortoj\)
+
+La ideojn reprezentatajn per simplaj vortoj de la U. V. 
+
+oni ne bezonas sintezi, çar tiujn vortojn la vortaro liveras tute pretaj por la uzo. 
+
+Ekzemple, la ideo ‹en la nuna tago› estas sintezita en la U. V. per la simpla kaj tute preta vorto: hodiaû. 
+
+Tamen, se la simpla vorto havas gramatikan karakte-ron, t. e. se ¸i entenas en si mem ideon aû substantivan, aû adjektivan, aû verban, oni aldonas al ¸i la taûgan fi-naîon gramatikan \(o, a, i\). 
+
+Ekzemple, se oni volas uzi memstare la simplajn vortojn frat, fort, ind, skrib, ktp., oni devas uzi la formojn: frat'o, 40
+
+VORT-TEORIO
+
+eLIBRO
+
+fort'a, ind'a, skrib'i, ktp. — Tion oni faras ne pro logiko, sed, kiel klarigis Zamenhof en Fund. Krest \(p. 248\), pro tio, ke en Esperanto ‹çiuj substantivoj en nominativo fini¸as per o, çiuj adjektivoj per a, çiuj verboj en modo sendifina per i›. Alivorte, finaîo o estas necesa por montri la nomina-tivon, kiel finaîo i por montri la modon sendifinan. Krom tiu motivo oni povus citi aliajn: en la çi supraj ekzemploj, la finaîoj o, a, i, konservas al la akcento ¸ian kutiman lokon kaj ebligas la uzon de la formoj akuzativa kaj multnombra \(frat'o'n, frat'o'j\). Cetere tiuj pleonasmaj finaîoj alportas en la vorton nenian malutilon, çar pleonasmo ne ÿan¸as la signifon de vorto \(reg. 4-a\). 
+
+§30. \(Kunmetitaj vortoj\)
+
+1. Sintezi la ideon: ‹iri supren›. 
+
+Laû regulo inversa je reg. 10-a oni havas: ‹iri supren› =
+
+supreniri. 
+
+2. Sintezi la ideon: ‹i¸i bela›. 
+
+Laû la sama regulo: ‹i¸i bela› = bela'i¸i. Nu, laû reg. 15-a \(principo de sufiço\) oni devas forigi la neutilan pleonasman finaîon a, çar la radiko bel jam en si mem entenas la ideon adjektivan. Restas do simple: ‹i¸i bela› = beli¸i. 
+
+3. Sintezi la ideon: ‹objekto, kiu portas kandelon›. 
+
+La ideo ‹objekto, kiu portas› estas sintezita en la U. V. per la sufiksa vorto ing \(= ing'o\); aliflanke, kandel'o = kandel; restas do: ‹ingo kandel›, kiu laû reg. 10-a sintezi¸as en kan-delingo. 
+
+41
+
+VORT-TEORIO
+
+eLIBRO
+
+4. Sintezi la ideon: ‹kiu rilatas al homo›. 
+
+La ideo ‹kiu rilatas al› estas sintezita en la U. V. per la simpla finaîa vorto a; aliflanke hom'o = hom. Do: \(kiu rilatas al\) \(homo\) = ‹a hom› = homa. 
+
+§31. \(Sekvo\)
+
+Sintezi la ideon: ‹virino matron'a›, aû ‹virino el speco matron›. 
+
+La ideon adjektivan ‹a›, aû la ideon ‹el speco› oni ne bezonas sintezi, çar laû reg. 12-a tiu ideo sin nature kaÿas inter la du partoj de la konstruota vorto: ‹virino matron'a› =
+
+matron'\(a\)'virino = matron'virino. Nu, la ideo ‹virin› tie çi estas pleonasma1, do forîetinda, çar tiu ideo jam ekzistas en vorto matron. Do, resume: ‹virino \(el speco\) matro-na = matrono. 
+
+§32. \(Sekvo\)
+
+1. Sintezi la ideon: ‹arbo kverk'a›, ‹arbo el speco kverk›. 
+
+Kiel çi supre, oni havas: ‹arbo kverk'a› = kverk'\(a\)'arbo =
+
+kverk'arbo. Sed la vorto arb tie çi estas pleonasma, do 1 Kiel ekzemplon de neutila pleonasmo en naturaj lingvoj, oni povas citi la Germanan vorton: Prinzessin, en kiu la ideo virinseksa estas esprimita dufoje; unuafoje per la Franca aû Angla sufikso esse, kaj duafoje per la Germana sufikso in. La
+
+¸usta formo estus: Prinz'ess aû Prinz'in, sed ne Prinz'ess'in. 
+
+42
+
+VORT-TEORIO
+
+eLIBRO
+
+forîetinda, çar la ideo ‹arb› jam estas entenata en radiko kverk. Resume: ‹arbo el speco kverk› = kverko. 
+
+2. Sintezi la ideon: ‹arbo karakterizata per frukto pomo›. 
+
+Oni povas unue sintezi la ideon ‹frukto pomo› per reg. 10-a en: pomofrukto, aû pomfrukto, çar pom'o = pom. La ideon ‹karakterizata per› oni ne bezonas konservi, çar tiu ideo sin kaÿas inter la du partoj de la sintezota vorto. Restas do simple la duelementa ideo ‹arbo pomfrukto›, kiu laû reg. 10-a sintezi¸as en pomfrukto'arbo. Sed la ideo ‹frukto› tie çi estas pleonasma, çar ¸i jam estas entenata en vorto pom. Restas do simple, post forîeto de la neutilaj pleonasmoj: pomarbo \(aû pomujo, çar sufikso uj post ideo de
+
+‹frukto› estas sinonimo de radiko arb\). 
+
+3. Sintezi la ideon: ‹fruktarbo karakterizata per frukto pomo›. 
+
+La ideo ‹fruktarbo› estas jam sintezita; la ideon ‹karakterizata per› oni flankelasas; fine, la ideo ‹frukto pomo› sintezi¸as en pomo, çar la ¸enerala ideo ‹frukt› estas entenata en la pli speciala ideo ‹pom›; restas do: pom'fruktarbo, kaj tiu vorto estas nereduktebla, çar la ideoj ‹arbo›, ‹fruktarbo›, 
+
+‹pom-fruktarbo› estas ideoj pli kaj pli specialaj; sed oni rimarku, ke ‹pom-fruktarbo› ne estas la sama ideo kiel
+
+‹pomfrukt-arbo› \(= ‹pom-arbo›\). 
+
+43
+
+VORT-TEORIO
+
+eLIBRO
+
+§33. \(Sekvo\)
+
+Sintezi la ideon: ‹koloro blu›. 
+
+Laû reg. 10-a: ‹koloro blu› = blu'koloro; nu, blu'koloro re-duktigas je blu'o, çar la ideo ‹kolor› jam estas entenata en radiko blu. 
+
+Rimarko 1. Radiko blu entenas, krom la ideo ‹kolor›, ankaû la ¸eneralan ideon adjektivan de ‹ec'o›. Do, blu'o signifas ankaû blu\(ec\)'o, t. e. ‹eco blu›. Tamen, la du signifoj ‹koloro blu› kaj ‹eco blu› ne estas malsamaj \(unu estas nur pli
+
+¸enerala ol la alia\) çar la ideo ‹kolor› ankaû enhavas ideon de ‹ec'o›. Alivorte, se oni kompare analizas la vortojn blu'o kaj pom'o, oni trovas, ke radiko blu entenas la ideojn blu-
+
+\(kolor\)\(ec\)\(a\) same, kiel radiko pom entenas la ideojn pom\(frukt\)\(aî\)\(o\); oni rajtas do skribi: blu'o = ‹koloro blu›
+
+aû ‹eco blu› same, kiel: pom'o = ‹frukto pom› aû ‹aîo pom›. 
+
+Oni povas skribi ankaû: blu'o = ‹abstrakto blu›, çar oni jam vidis \(§14\), ke çiuj ecoj estas abstraktoj. La diversaj sencoj de blu'o: ‹koloro blu›, ‹eco blu›, ‹abstrakto blu› \(kaj eç ‹o blu›\) estas entenataj unu en la aliaj. Tiuj sencoj estas pli kaj pli ¸eneralaj, çar la ideoj ‹blu›, ‹kolor›, ‹ec›, ‹abstrakt› estas pli kaj pli ¸eneralaj. 
+
+Rimarko 2. La vorto blu'koloro estas reduktebla je blu'o, sed roz'koloro estas nereduktebla, çar roz'o estas ne ‹koloro› sed ‹floro› \(ekz.: ‹Li portas rozokoloran superveston kaj teleroforman çapelon›\). 
+
+44
+
+VORT-TEORIO
+
+eLIBRO
+
+§34. \(Sekvo\)
+
+1. Sintezi la ideon: ‹kvalito feliç›. 
+
+Laû reg. 10-a: ‹kvalito feliç› = feliç'kvalito. Sed la ideo
+
+‹kvalit› jam estas entenata en radiko feliç; sekve: ‹kvalito feliç› = feliço. 
+
+2. Sintezi la ideon: ‹kvalito de re¸o›. 
+
+La vorto re¸o = re¸. La vorteto genitiva de estas sinonimo de la ideo adjektiva a, do: ‹de re¸› = ‹a re¸› = re¸'a. Resume: ‹kvalito de re¸o = re¸a'kvalito. Nu, la ideo adjektiva
+
+‹a› estas ankaû sinonimo de la ideo ‹kvalit›; do, el la vorto re¸a'kvalito oni povas forîeti aû finaîon a, aû radikon kvalit, kiel neutilan pleonasmon; sed, oni ne povas forîeti am-baû, çar tiu ideo adjektiva ne ekzistas en la aliaj elementoj de la vorto \(re¸ kaj o\). Oni do alvenas al du eblaj formoj de la sintezota vorto: re¸'a'o aû re¸'kvalit'o. La unua formo estas neakceptebla, çar vorto ne povas havi du finaîojn; la dua formo ankaû ne estas bona, çar en ¸i la radiko kvalit okupas lokon de sufikso; pli bone do estas anstataûigi radikon kvalit per la sinonima sufikso ec, kaj oni tiel ricevas:
+
+‹kvalito de re¸o› = re¸eco. 
+
+Rimarko. En Esperanto, montras ‹kvaliton› nur tiuj substantivoj, kies antaûlasta elemento estas adjektiva. Ekzemple: fe-liç'o, re¸'ec'o, trink'em'o, çar la elementoj feliç, ec, em, entenas ideon adjektivan, do kvalitan. 
+
+45
+
+VORT-TEORIO
+
+eLIBRO
+
+§35. \(Sekvo\)
+
+1. Sintezi la ideon: ‹ago skribi›. 
+
+Laû reg. 10-a: ‹ago skribi = skribi'ago. Nu, la verba ideo ‹i›
+
+estas sinonimo de ideo ‹ag›. Cetere ambaû vortetojn i kaj ag oni povas forîeti kiel neutilajn pleonasmojn, çar la verba ideo de ‹ag'o› jam estas entenata en radiko skrib. Do, fine:
+
+‹ago skribi› = skribo. 
+
+2. Sintezi la ideon: ‹ago re¸i›. 
+
+Laû reg. 10-a: ‹ago re¸i› = re¸i'ago. Tie çi ankaû trovi¸as pleonasmo \(i = ag\); oni do povas el vorto re¸i'ago forîeti aû finaîon i, aû radikon ag, sed ne ambaû, çar la ideo verba de ‹ag'o› ne ekzistas en la aliaj elementoj de la vorto \(re¸ kaj o\). Oni do alvenas al du eblaj formoj: re¸'i'o kaj re¸'ag'o. La unua formo estas neakceptebla, çar vorto ne povas havi du finaîojn; la dua formo ankaû ne estas bona, çar en ¸i la radiko ag okupas lokon de sufikso; pli bone do estas anstataûigi tiun radikon per la sinonima sufikso ad, kaj oni tiel ricevas: ‹ago re¸i› = re¸ado. 
+
+Rimarko 1. En Esperanto, montras ‹agon› aû ‹staton› nur tiuj substantivoj, kies antaûlasta elemento estas verba. Ekzemple: ag'o, skrib'o, re¸'ad'o, bel'ig'o, ktp› çar la elementoj, ag, skrib, ad, ig, ktp., entenas ideon verban, do agan aû sta-tan. 
+
+Rimarko 2. El la antaûaj paragrafoj oni povas konstati la jenan principon: sufikson oni devas uzi nur, se ¸i alportas en la vorton ideon novan, ne ankoraû \(aû ne sufiçe\) esprimitan per la aliaj partoj de la vorto. 
+
+46
+
+VORT-TEORIO
+
+eLIBRO
+
+§36. \(Sekvo\)
+
+Sintezi la ideon: ‹fari la agon karakterizatan per objekto krono›. 
+
+La çi supran ideon oni povas dividi en 3 partojn: ‹\(fari agon\) \(karakterizatan per\) \(objekto krono\)›, kaj çiun el tiuj 3 partoj oni devas aparte sintezi: ‹fari agon› = agi, çar la ideo ‹far› estas sinonima de ‹ag›; ‹objekto krono› redukti¸as je krono, çar la ideo de ‹objekto› jam ekzistas en vorto krono; cetere kron'o = kron, çar ‹kron› estas ideo substantiva. La donita ideo estas do kunpremebla en la pli simplan formon: ‹\(agi\) \(karakterizata per\) \(kron\), kiu sintezi¸as en la vorton: kron'agi, çar la ideo ‹karakterizata per› sin nature kaÿas inter la du partoj de la vorto. 
+
+Nu, la ideo verba ‹i› estas sinonimo de la ideo ‹ag›; oni povas do el vorto kron'agi forîeti, kiel pleonasman, aû la radikon ag, aû la finaîon i, sed ne ambaû. Se oni deziras vorton en formo verba, oni konservos finaîon i kaj forîetos ag; la fina rezulto de la sintezo estas do: kroni. Kontraûe, se oni deziras vorton en formo substantiva, oni devas anstataûigi finaîon i per finaîo substantiva o; tiam oni jam ne povas forîeti la radikon ag \(çar vortetoj ag kaj i devas ne ambaû malaperi\). Oni do havos la jenan sintezon: ‹ago karakterizata per objekto krono› = kron'ag'o, aû pli bone kron'ad'o, çar la ideo ‹ag› okupas tie çi lokon de sufikso, kaj ad estas la sola sufikso sinonima de la verba ideo ‹ag›. 
+
+Cetere, la vortfamilio kron, kron'i, kron'ad'o estas tute simila al la familio: re¸, re¸'i, re¸'ad'o \(vidu §15\). 
+
+47
+
+VORT-TEORIO
+
+eLIBRO
+
+Rimarko 1. En verboj kun radiko neverba, kiel kron'i, najl'i, sang'i, flor'i, ktp., la naturo de la ago ne estas esprimita, kaj sekve la logika signifo de tiaj verboj estas pli-malpli duba; oni povas diri, ke tiuj vortoj iom pekas kontraû la principo de neceso. Aliflanke, se oni provus esprimi per sufiksoj la naturon de la ago, oni ne povus trovi sufiksojn tute taûgajn, eç se oni akceptus la sufiksojn uzatajn en la teknika lingvo \(iz, if, ktp.\). Se oni dirus ekzemple kron'iz'i, sang'if'i, ktp., anstataû kron'i, sang'i, ktp., tiuj formoj ne estus pli bonaj, çar ili pekus kontraû la principo de sufiço, kiu estas tiel grava kiel la principo de neceso. Efektive, per uzo de sufiksoj tro precizaj, oni ne povas eviti la enkondu-kon de fremdaj ideoj, ne entenataj en la ideo esprimota, çar ne ekzistas kaj ne povas ekzisti aparta sufikso por çiu speciala ideo. Ekzemple, sufikso iz signifas ‹ÿmiri per›, ‹ornami per›; nu, oni povas ‹kronizi \(ornami per kronoj\) tom-bon, çerkon›, aû ‹kronizi \(ornami per krono\) la pordon de luksa veturilo›, sed tiuj ideoj estas tute aliaj ol la ideo esprimita per la vorto kroni. 
+
+Resume, kiam la apliko de la du principoj de neceso kaj de sufiço alkondukas al du eblaj formoj de la vorto konstruata, unu formo minimuma, malpreciza, kaj unu formo maksimuma, tro preciza, oni prefere devas elekti la formon minimuman, çar ¸i estas la pli simpla, la pli malpeza kaj la pli konforma al la naturaj lingvoj kaj al principo de minimuma peno. Tamen, la formon minimuman oni devas akcepti nur, se la kunteksto klarigas la signifon de la vorto. En mala okazo la formo maksimuma estas konsilinda; sed, çar la nombro de sufiksoj ne estas sufiça por esprimi çiujn ide-48
+
+VORT-TEORIO
+
+eLIBRO
+
+ojn, oni povas uzi ankaû radikvortojn. Ekzemple la tro ela-stan signifon de la verbo ÿtoni oni povas precizigi per la formoj maksimumaj: ÿtonfrapi, ÿtontrafi, ÿtonpafi, ÿton-mortigi, ktp. 
+
+Tiu elekto estas afero, tiom de stilo, kiom de logiko, çar en Esperanto la stilo sin montras ne nur en frazkonstruo, sed ankaû en vortkonstruo. 
+
+Rimarko 2. Oni ne devas fari konfuzon inter ‹verbo› kaj
+
+‹radiko verba›. Ekzemple: kron'i estas verbo, kvankam radiko kron estas neverba, kaj restas neverba eç en la vorto kron'i pro tio, ke simplaj vortoj estas elementoj nevarieblaj. 
+
+En Esperanto la finaîoj estas memstaraj vortoj, do kron'i estas ne simpla vorto sed vorto kunmetita el du simplaj vortoj: substantivo kron kaj verbo i, same kiel maÿin'skribi estas vorto kunmetita el substantivo maÿin kaj verbo skribi.1
+
+Do, por ke vorto estu verbo, estas nenecese, ke çiuj elementoj de la vorto estu verbaj; sufiças, ke ¸ia finaîo estu verba \(ekz.: çirkaû'i\); por ke vorto estu substantivo, sufi-
+
+ças, ke ¸ia finaîo estu substantiva \(ekz.: çirkaû'o\); por ke vorto estu adjektivo, sufiças, ke ¸ia finaîo estu adjektiva \(ekz.: çirkaû'a\). 
+
+49
+
+VORT-TEORIO
+
+eLIBRO
+
+§37. \(Influo de la kunteksto\)
+
+Sintezi la ideojn: ‹aîo konstruita›, ‹aîo konstruata›, ‹aîo konstruota›. 
+
+Laû reg. 10-a tiuj ideoj sintezi¸as en konstruit'aîo, konstruat'aîo kaj konstruot'aîo, sed tiuj formoj estas iom pezaj, kaj se la kunteksto permesas, oni devas ilin mallongi-gi: se la ideo de ‹aîo› estas jam elvokata de la kunteksto, oni povas forîeti sufikson aî, kiel neutilan pleonasmon, kaj uzi la simplajn participo-substantivojn konstruit'o, konstruat'o, konstruot'o; se la ideo ‹tempa› kaj la ideo ‹pasiva›
+
+estas memevidentaj pro la kunteksto, oni povas forîeti la participajn sufiksojn kaj uzi la formon konstru'aîo, aû eç simple konstru'o kiel en la ekzemplo de §22. 
+
+Tamen, se la ‹konstruaîo› estas io materia, preferinde estas konservi la konkretigan sufikson aî, çar objekto materia estas la plej alta grado de konkreto, kaj la formo konstru'o \(‹ago konstrui›\) estas tro abstrakta. Kontraûe, se oni parolas pri io konkreta sed ne materia, ekzemple ‹vort-konstruaîo›, la formo vortkonstruo estas sufiçe taûga, çar
+
+¸i signifas ne nur ‹ago konstrui› sed ankaû ‹rezulto de la ago konstrui›. 
+
+1 Ankaû en Franca lingvo la vorto couronn'er estas vorto kunmetita el substantivo couronn\(e\) kaj verbo er. En Angla lingvo oni esprimas la verban ideon i per vorteto to; oni havas do laû reg. 10-a., \(Fr.\) couronn'er = kron'i = i kron = \(A.\) to crown. 
+
+50
+
+VORT-TEORIO
+
+eLIBRO
+
+§38. \(Komparo kun la naturaj lingvoj\)
+
+Sintezi, en Franca lingvo, la ideon: ‹Français de Lyon›. 
+
+La vorteton de oni povas flankelasi, çar ¸i esprimas simple la rilaton inter la du partoj de la kunmetota vorto. Do, laû reg. 10-a: ‹Fran *ç* ais \(de\) Lyon› = Lyon'Fran**ç**ais; sed la ideo
+
+‹Fran *ç*› jam estas entenata en la nomo de la urbo ‹Lyon›, do post forigo de la neutila pleonasmo, la vorto Lyon'Fran**ç**ais redukti¸as je Lyon'ais, kiel pom'frukto redukti¸as je pom'o, aû skrib'ago je skrib'o, kaj oni havas la sintezon: ‹Français de Lyon› = Lyonn'ais. 
+
+De tio oni konkludas, ke la vortteorio de la lingvo Esperanto estas la sama, kiel tiu de la naturaj lingvoj. 
+
+Tion ankaû montras1 la similo inter la vortfamilioj: E. 
+
+hom, hom'a, hom'ec'o; F. homme, hum'ain, hum'an'ité; G. 
+
+Mensch, mensch'lich, Mensch'lich'keit; A. man, man'ly, man'li'ness. 
+
+Tiuj vortfamilioj montras, ke de ideo konkreta \(kiel ekzemple: re¸\) oni povas per adjektivigo aû verbigo ricevi la kunrespondan ideon abstraktan \(re¸eco aû re¸ado\). ‘En la naturaj lingvoj ekzistas eç vortçenoj ankoraû pli longaj; ekzemple en Franca lingvo:
+
+homme, hum'ain, hum'an'ité, hum'an'it'aire, hum'an'it'ar'isme; règle, régl'er, règl'e'ment, règl'e'ment'er, règl'e'ment'a'tion. 
+
+Sed oni tuj vidas, ke tiaj vortçenoj estas eblaj nur pro tio, ke oni prenis la saman vorton jen en senco abstrakta, jen 1 vidu §14. 
+
+51
+
+VORT-TEORIO
+
+eLIBRO
+
+en senco konkreta: de la konkreta ideo ‹homme› \(homo\) oni naskis per adjektivigo la abstraktan ideon ‹humanité›
+
+\(homeco\); iom post iom oni donis al la abstrakta ideo ‹humanité› sencon konkretan \(homaro\); tiam, de la konkreta ideo ‹humanité› \(homaro\) oni povis denove eltiri per adjektivigo novan ideon abstraktan: ‹humanitarisme› \(hom-areco\). Sed en Esperanto ne ekzistas konfuzo inter homeco kaj homaro, sekve anstataû unu longa vortçeno oni havas pli logike du apartajn çenojn:
+
+hom\(o\), hom'a, hom'ec'o; homar\(o\), homar'a, homar'ec'o; 
+
+simile:
+
+regul\(o\), regul'i, regul'ad'o; regular\(o\), regular'i, regular'ad'o. 
+
+52
+
+VORT-TEORIO
+
+eLIBRO
+
+III. ALDONO
+
+\(Por logikistoj kaj lingvistoj\)
+
+§39. \(Principo de returneblo\)
+
+En Esperanto çiu vorto estas aparta konstruaîo, kies signifo dependas nur de la enhavo de tiu vorto \(almenaû por vortoj konsiderataj sen kunteksto\). Ekzistas tamen dependo, parenceco inter la vortoj, kiuj apartenas al unu sama familio; ekzemple, la vorton re¸a oni povas konsideri kiel derivaîon de re¸\(o\) per adjektivigo, kaj oni vidis \(§14\), ke la vorto re¸eco povas esti konsiderata kiel substantivigo de la adjektivo re¸a. 
+
+Nu, la principo de returneblo konsistas en tio, ke se oni revenas al la origina ideo per derivo inversa, oni devas retrovi la originan vorton, kaj reciproke. Ekzemple, la vorton re¸eco oni povas ricevi per substantivigo de adjektivo re¸a, do reciproke, per adjektivigo de substantivo re¸eco oni devas retrovi la formon re¸a; kaj efektive, se en vorto re¸eco oni anstataûigas finaîon o per finaîo a, oni ricevas unue re¸eca, sed sufikso ec estas sinonimo 53
+
+VORT-TEORIO
+
+eLIBRO
+
+de finaîo a, do la vorto re¸eca estas pleonasma kaj redukti¸as je re¸a. 
+
+Simile, per substantivigo de verbo re¸i oni ricevis la vorton re¸ado \(vidu §15\); reciproke, per verbigo de substantivo re¸ado, oni ricevas unue la verbon re¸adi, sed pro la sinonimeco i = ad, la vorto re¸adi estas pleonasma kaj redukti¸as je re¸i \(origina formo\). 
+
+Do en Esperanto la vorto reprenas sian originan formon çiufoje, kiam oni revenas al la origina ideo, kia ajn estis la vojo sekvata inter la deirpunkto kaj la alvenpunkto. 
+
+§40. \(Pri pleonasmoj\)
+
+Oni vidis, ke la vorto homulo estas pleonasma kaj reduktebla je homo. 
+
+Tamen de tio oni ne devas konkludi, ke la formo homulo neniam povos esti uzata. Efektive, preskaû neniu vorto estas absolute unusenca, kaj pro tio oni ne devas blinde apliki la regulojn de vortteorio. 
+
+Sufikso ul, ekzemple, signifas ne nur ‹persono›, ‹ho-mo›, sed ofte ankaû ‹viva estaîo›, ‹besto›, kaj en tiu çi senco sufikso ul jam ne estas sinonimo de hom. Ekzemple, inter nombro da simioj oni povus elmontri iun, kiu speciale sin distingas per homeco, nomante ¸in ‹homulo›. En tiu çi kazo la vorto homulo ne estas pleonas-54
+
+VORT-TEORIO
+
+eLIBRO
+
+ma, çar ¸i signifas, ne homhom'o, sed hombesto \(‹besto hom'a›\). 
+
+Similajn rimarkojn oni povas fari koncerne la vortojn re¸eca kaj re¸adi, kiuj laûlogike estas redukteblaj je re¸a, re¸i \(§39\), sed ne çiam, çar finaîo a enhavas ideon ne nur ‹ec'an› sed ankaû ‹rilat'an› , kaj sufikso ad enhavas ideon ne nur de ‹ag'o› sed ankaû de ‹daûr'o›. 
+
+Fine, la sama sufikso povas esti jen pleonasma, jen ne pleonasma laû la ideo, kiu sin kaÿas inter la sufikso kaj la radiko. Ekzemple, sintezante la ideon ‹ujo \(el speco\) kaldron›, oni trovas: kaldron'ujo, kiu redukti¸as je kaldron'o; sed, se oni sintezas la ideon ‹ujo \(por\) kaldro-noj›, oni trovas la vorton kaldronujo, kiu estas nereduktebla. En la unua kazo la vorto kaldronujo estas pleonasma, çar kaldron kaj uj rilatas al la sama objekto, dum en la dua kazo ili rilatas al malsamaj objektoj. 
+
+§41. \(Sufiksoj inversaj\)
+
+1. Sufiksoj il kaj ad. La ago kaj la ilo per kiu oni faras la agon estas ideoj inversaj. Ekzemple, la vorto tranç'o montras agon, dum la vorto martel'o montras ilon; reciproke tranç'il'o estas ilo, kaj martel'ad'o estas ago. 
+
+Nu, kion signifas la vortoj: tranç'il'ad'o kaj martel'ad'il'o? La unua signifas: ‹ago \(karakterizata per\) tran-
+
+çilo›, t. e.: tranç'o, kaj la dua signifas: ‹ilo \(karakteriza-55
+
+VORT-TEORIO
+
+eLIBRO
+
+ta per\) martelado›, t. e. martel'o. Sekve: trançilado =
+
+tranço, kaj marteladilo = martelo. Alivorte sufikso verba ad nuligas la sufikson substantivan il, kaj reciproke: il \+ ad = 0, kaj ad \+ il = 0. 
+
+2. Sufiksoj ul \(aû aî\) kaj ec. La kvalito kaj la persono \(aû objekto\), kiu posedas tiun kvaliton estas ideoj inversaj. 
+
+Ekzemple, la vortoj kapabl'o, blu'o, ktp., montras ecojn, dum la vortoj re¸'o, tabl'o, ktp., montras ulojn aû aîojn; reciproke, kapabl'ulo, blu'aîo, ktp. estas uloj aû aîoj, kaj re¸'eco, tabl'eco, ktp., estas ecoj. Nu, estas evidente, ke: kapabl'ul'ec'o = ‹eco \(de\) kapablulo› = kapabl'o; blu'-
+
+aî'ec'o = ‹eco \(de\) aîo blua› = blu'o. Simile: re¸'ec'ul'o =
+
+‹ulo \(karakterizata per\) eco de re¸› = re¸'o, kaj: tabl'-
+
+ec'aî'o = tabl'o. Sekve, sufikso adjektiva ec nuligas la sufiksojn substantivajn ul aû aî, kaj reciproke, t. e.: aî \+
+
+ec \(aû ul \+ ec\) = 0, kaj ec \+ aî \(aû ec \+ ul\) = 0. 
+
+3. Sufiksoj ig, i¸ kaj ant, at. Tiuj sufiksoj estas inversaj, çar: konstru'i = ‹i¸i konstru'anta› aû ‹igi konstru'ata›; alivorte:
+
+konstru'i = konstru'ant'ig'i = konstru'at'ig'i, simile:
+
+bel'a = bel'ig'int'a = bel'ig'it'a. 
+
+Do la verbaj sufiksoj ig, i¸ nuligas la participajn sufiksojn at, ant, aû reciproke; tiamaniere, ke: ant \+ i¸ = i¸
+
+\+ ant = 0, kaj at \+ ig = ig \+ at = 0. 
+
+56
+
+VORT-TEORIO
+
+eLIBRO
+
+§42. \(Rilatoj inter Substantivo, Adjektivo kaj Verbo\)
+
+Oni vidis \(§15\), ke la Adjektivo kaj la Verbo estas formoj simetriaj kompare al Substantivo: re¸, re¸'a, re¸'ec'o; re¸, re¸'i, re¸'ad'o. Oni povas diri, ke Substantivo estas la ‹substanco›, la ‹korpo› de la parolo, dum Adjektivo kaj Verbo estas kvazaû la du flugiloj, kiuj donas vivon al tiu korpo per aldono de ‹kvalito› kaj ‹ago›. 
+
+Oni povas transiri senpere de Substantivo al Adjektivo, aû reciproke: re¸, re¸'a; bel, bel'o; ankaû, de Substantivo al Verbo, aû reciproke: re¸, re¸'i; konstru, konstru'o. Sed de Adjektivo al Verbo la transiro ne estas senpera, çar oni devas montri, çu la transiro okazas en senco aktiva, aû en senco pasiva. 
+
+Por iri de Verbo al Adjektivo, oni uzas do la du sufiksojn participajn: konstru'ant'a, konstru'at'a1; kontraûe por iri de Adjektivo al Verbo oni uzas la du verbajn sufiksojn \(ig, i¸\): bel'ig'i, bel'i¸'i, kaj tio klarigas, kial la sufiksoj ig, i¸ estas inversaj je la sufiksoj at, ant. 
+
+Resume, oni povas montri la rilatojn inter Substantivo, Adjektivo kaj Verbo per la jena figuraîo: 1 Estas vere, ke la adjektivo konstru'a ekzistas \(vidu §16\), sed tian adjektivon oni povas uzi nur, se la ideo de aktiveco aû de pasiveco estas memevidenta aû sufiçe elvokata de la kunteksto. 
+
+57
+
+!(images/000001.png)
+
+VORT-TEORIO
+
+eLIBRO
+
+§43. \(Diferenco inter ‹signifo› kaj ‹senco›\) Signifo estas io absoluta, dum senco estas io relativa, diversa aspekto de la sama signifo. Oni parolas ekzemple pri ‹senco konkreta› kaj ‹senco abstrakta›, ‹senco speciala› kaj ‹senco ¸enerala›, ‹senco propra› kaj ‹senco figura›, ‹senco aktiva kaj senco pasiva›, ktp. Kiel ni jam diris \(§22\): la signifon de vorto fiksas la vorto mem, sed
+
+¸ian sencon fiksas la kunteksto. 
+
+§44. \(La çefa problemo de vortteorio\)
+
+Neniu iam dubis pri la signifo de vortoj kiel homo, tablo, blua, skribi, sed pri la signifo de la vorto blu'o \(substantivigo de adjektivo\) aû de la vorto skrib'o \(substantivigo de verbo\) oni multe, tre multe diskutis. 
+
+58
+
+VORT-TEORIO
+
+eLIBRO
+
+Tamen, ekzistas nenia diferenco inter analizo de vorto homo kaj tiu de vortoj bluo aû skribo. 
+
+1. Analizo de homo. Laû zoologia vidpunkto, ‹homo›
+
+estas ‹dupiedulo› aû, se oni preferas, ‹vertebrulo›; kaj tio signifas, ke ‹çiuj homoj estas vertebruloj›, aû ke la ideo
+
+‹vertebrul› estas entenata en la ideo ‹hom›. Simile, la ideo ‹vertebrul› entenas la pli ¸eneralan ideon de ‹ul'o›, çar çiuj vertebruloj estas uloj; siavice, çiuj ‹ul'oj› estas
+
+‹aî'oj›, ‹konkretaî'oj›; kaj fine, çiuj ‹konkretaî'oj› estas ‹oj›, t. e. ‹ekzistaî'oj› \(en plej ¸enerala senco, konkreta aû abstrakta\). 
+
+De tio sekvas, ke la vorto homo, kvankam unusignifa, estas diverssenca laû la kategorio al kiu oni ¸in kom-paras. Radiko hom entenas la ideojn: hom\(vertebrul\)\(ul\)\(konkretaî\)\(o\), la vorto homo povas do havi la pli kaj pli ¸eneralajn sencojn: hom'o = ‹vertebrulo hom›, hom'o = ‹ulo hom›, hom'o = ‹konkretaîo hom›, kaj fine: hom'o = ‹o hom›, ‹ekzistaîo hom›, en plej ¸enerala senco, \(konkreta, kaj abstrakta\); do, la vorto hom'o havas ne nur diversajn sencojn konkretajn, sed en ¸ia plej ¸enerala senco ¸i eç tuÿas la sencon abstraktan \(homeco\). 
+
+Kaj tio klarigas, kial ideo per si mem konkreta povas per la kunteksto akiri kelkafoje sencon abstraktan. 
+
+59
+
+VORT-TEORIO
+
+eLIBRO
+
+2. Analizo de bluo. Tiu analizo estas tute simila al la analizo de homo. La ideo ‹blu› entenas ideon de ‹koloro›; la ideo ‹kolor› entenas ideon de ‹ec'o›; la ideo ‹ec'o› entenas ideon de ‹abstrakt'o›; kaj fine, la ideo ‹abstrakt'o›
+
+entenas la ideon ‹o› en ¸ia plej ¸enerala senco \(‹ekzistaîo› abstrakta aû konkreta\). La vorto blu'o estas do analizebla jene: blu\(kolor\)\(ec\)\(abstrakt\)\(o\), kaj sekve, tiu vorto havas la pli kaj pli ¸eneralajn sencojn: blu'o = ‹koloro blu›, blu'o = ‹eco blu›, blu'o = ‹abstrakto blu›, kaj blu'o = ‹o blu›, ‹ekzistaîo blu› \(abstrakta aû konkreta\). 
+
+Do la vorto bluo, kvankam unusignifa, havas diversajn sencojn abstraktajn, kaj en ¸ia plej ¸enerala senco ¸i eç tuÿas al la senco konkreta \(bluaîo\). Tio klarigas, kial ideo per si mem abstrakta povas per la kunteksto akiri kelkafoje sencon konkretan. 
+
+3. Analizo de skribo. Tiu analizo ankaû estas simila al la antaûaj. La ideo ‹skrib› entenas ideon de ‹ag'o›, la ideo
+
+‹ag'o› entenas ideon de ‹abstrakt'o›, kaj fine la ideo ‹abstrakt'o› entenas la ideon ‹o› \(‹ekzistaîo› abstrakta aû konkreta\). La vorto skrib'o estas do analizebla jene: skrib\(ag\)\(abstrakt\)\(o\), kaj sekve tiu vorto povas havi la pli kaj pli ¸eneralajn sencojn: skrib'o = ‹ago skrib›, skrib'o = ‹abstrakto skrib›, kaj skrib'o = ‹o skrib›, ‹ekzistaîo skrib› \(abstrakta aû konkreta\). Do, la vorto skribo, kvankam unusignifa, havas diversajn sencojn ab-60
+
+VORT-TEORIO
+
+eLIBRO
+
+straktajn, kaj en ¸ia plej ¸enerala senco ¸i eç tuÿas al la senco konkreta \(skribaîo\), t. e. al la konkreta rezulto de la ago. 
+
+Rimarko. Kiam oni volas fari diferencon inter la diversaj sencoj de la vorto, oni povas uzi la pleonasmajn formojn blukoloro, blueco, skribado, ktp., sed tion oni ne faru sennecese \(principo de sufiço\). 
+
+61
+
+VORT-TEORIO
+
+eLIBRO
+
+www.omnibus.se/inko
+
+ISBN 91-7303-191-7
+
+62
+
