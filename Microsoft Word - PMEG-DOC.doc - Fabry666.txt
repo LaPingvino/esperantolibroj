@@ -1023,7 +1023,7 @@ nur la 28 Esperantajn literojn \("Literoj"\).
 
 Kiam oni alfabete ordigas vortojn kun ne-Esperantaj Latinaj literoj, oni devas iel envicigi tiujn 
 
-literojn en la Esperantan alfabetan ordon. La literojn q, w, x kaj y oni povas tiam envicigi laŭ iliaj kutimaj pozicioj en Latinalfabetaj lingvoj; literojn kun kromsignoj, ekz. á, è, ö, ç, k.s. oni povas 
+literojn en la Esperantan alfabetan ordon. La literojn q, w, x kaj y oni povas tiam envicigi laŭ iliaj kutimaj pozicioj en Latinalfabetaj lingvoj; literojn kun kromsignoj, ekz. á, è, ö, ĉ, k.s. oni povas 
 
 meti kune kun la respondaj senkromsignaj literoj; ligaĵojn kiel æ oni povas trakti kiel la 
 
@@ -1031,9 +1031,9 @@ respondan duliteraĵon; la Germanan ß oni povas trakti kiel ĝian kutiman ansta
 
 plu. Laŭ tiuj ĝeneralaj ideoj \(kiuj ne solvas ĉiujn problemojn\) povas ekesti ekzemple la jena 
 
-vicordo: a à á â ã ä å æ \(= ae\), b, c ç, ĉ, d ð, e è é ê ë, f, g, ĝ, h, ĥ, i ì í î ï, j, ĵ, k, l, m, n ñ, o ò ó ô õ ö ø, p, q, r, s ß \(= 
+vicordo: a à á â ã ä å æ \(= ae\), b, c ĉ, ĉ, d ð, e è é ê ë, f, g, ĝ, h, ĥ, i ì í ĵ ï, j, ĵ, k, l, m, n ñ, o ò ó ô õ ö ø, p, q, r, s ß \(= 
 
-ss\), ŝ, t þ \(= th\), u ù ú û ü, ŭ, v, w, x, y ý ÿ, z. 
+ss\), ŝ, t þ \(= th\), u ù ú ŭ ü, ŭ, v, w, x, y ý ŝ, z. 
 
 Grekaj literoj estas uzataj kiel simboloj en matematiko. Pri iliaj Esperantaj nomoj vidu 
 
@@ -28009,7 +28009,7 @@ internaciaj aferoj, ekz. maroj kaj riveroj, kiuj fluas tra pluraj landoj. Uzi ne
 
 formojn por tiaj aferoj estas foje preskaŭ eraro, foje nur malrekomendinde. 
 
-*Moçambique* \(Afrika lando\) -> *Mozambiko* 
+*Moĉambique* \(Afrika lando\) -> *Mozambiko* 
 
 *New York* \(Usona urbo\) -> *Nov-Jorko* 
 
@@ -38299,7 +38299,7 @@ L1
 
 M 
 
-*Marta* - Orzeszko, E. - 4-a eldono, Editions françaises d'espéranto, Marmande, Francujo, 
+*Marta* - Orzeszko, E. - 4-a eldono, Editions franĉaises d'espéranto, Marmande, Francujo, 
 
 
 
