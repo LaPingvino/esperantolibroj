@@ -1,3 +1,6 @@
+% La du salikoj de Nagyenyed
+% Mor Jokai
+
 !(images/000000.jpg)
 
 

@@ -1,3 +1,6 @@
+% La Magio de Oz
+% Donald Broadribb
+
 !(images/000071.jpg)
 
 

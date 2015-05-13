@@ -1,3 +1,6 @@
+% Eo - Schwerin, P.E_
+% Gaja leganto per Esperanto
+
 GAJA LEGANTO
 
 PER ESPERANTO

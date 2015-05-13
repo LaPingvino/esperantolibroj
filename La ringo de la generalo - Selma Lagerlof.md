@@ -1,3 +1,6 @@
+% La ringo de la generalo
+% Selma Lagerlof
+
 LA RINGO DE LA GENERALO
 
 

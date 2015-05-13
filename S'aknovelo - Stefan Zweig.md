@@ -1,3 +1,6 @@
+% S'aknovelo
+% Stefan Zweig
+
 ŝAKNOVELO
 
 

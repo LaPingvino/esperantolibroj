@@ -1,3 +1,6 @@
+% Surprizitaj nuptofestantoj
+% Eugen Kumicic
+
 SURPRIZITAJ NUPTOFESTANTOJ
 
 

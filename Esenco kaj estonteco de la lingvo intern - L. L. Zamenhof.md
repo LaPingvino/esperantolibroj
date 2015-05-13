@@ -1,3 +1,6 @@
+% Esenco kaj estonteco de la lingvo intern
+% L. L. Zamenhof
+
 E S E N CO K A J E STO N T E CO
 
 

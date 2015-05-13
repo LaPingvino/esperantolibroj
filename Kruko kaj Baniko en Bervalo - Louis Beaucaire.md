@@ -1,3 +1,6 @@
+% Kruko kaj Baniko en Bervalo
+% Louis Beaucaire
+
 K R U KO K A J B A N I KO
 
 

@@ -1,3 +1,6 @@
+% Doroteo kaj la Sorchisto en Oz
+% Donald Broadribb
+
 !(images/000004.jpg)
 
 

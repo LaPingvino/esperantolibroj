@@ -1,3 +1,6 @@
+% La sankta Biblio
+% Malnova Testamento 4
+
 L A S A N K TA B I B L I O
 
 

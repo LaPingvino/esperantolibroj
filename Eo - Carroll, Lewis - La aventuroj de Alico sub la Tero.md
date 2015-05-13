@@ -1,3 +1,6 @@
+% Eo - Carroll, Lewis
+% La aventuroj de Alico sub la Tero
+
 !(images/000001.png)
 
 

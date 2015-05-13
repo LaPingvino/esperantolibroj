@@ -1,3 +1,6 @@
+% La faraono, 1
+% Boleslav Prus
+
 L A FA R AO N O
 
 

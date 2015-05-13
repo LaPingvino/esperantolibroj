@@ -1,3 +1,6 @@
+% Fundamentaj reguloj de la vort-teorio en
+% Rene de Saussure
+
 !(images/000002.jpg)
 
 

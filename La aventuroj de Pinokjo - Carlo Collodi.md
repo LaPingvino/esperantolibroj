@@ -1,3 +1,6 @@
+% La aventuroj de Pinokjo
+% Carlo Collodi
+
 !(images/000011.jpg)
 
 

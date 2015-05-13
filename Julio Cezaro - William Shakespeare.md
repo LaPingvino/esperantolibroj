@@ -1,3 +1,6 @@
+% Julio Cezaro
+% William Shakespeare
+
 !(images/000000.jpg)
 
 

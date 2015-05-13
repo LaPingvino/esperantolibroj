@@ -1,3 +1,6 @@
+% La mortula s'ipo
+% B. Traven
+
 !(images/000000.jpg)
 
 

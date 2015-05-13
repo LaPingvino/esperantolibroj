@@ -1,3 +1,6 @@
+% Eo - Piron, Claude
+% Dankon amiko
+
 !(images/000000.jpg)
 
 

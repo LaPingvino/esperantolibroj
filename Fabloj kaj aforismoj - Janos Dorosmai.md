@@ -1,3 +1,6 @@
+% Fabloj kaj aforismoj
+% Janos Dorosmai
+
 !(images/000001.jpg)
 
 

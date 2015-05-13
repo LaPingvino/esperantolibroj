@@ -1,3 +1,6 @@
+% La gnomau'to
+% Upton Sinclair
+
 LA GNOMAŭTO
 
 

@@ -1,3 +1,6 @@
+% Trans la Spegulo_ kaj kion Alico trovis 
+% Donald Broadribb
+
 !(images/000031.png)
 
 

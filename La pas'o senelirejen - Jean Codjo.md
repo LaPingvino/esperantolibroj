@@ -1,3 +1,6 @@
+% La pas'o senelirejen
+% Jean Codjo
+
 LA PAŝO SENELIREJEN
 
 

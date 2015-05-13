@@ -1,3 +1,6 @@
+% La reg'o de la Ora rivero
+% John Ruskin
+
 !(images/000000.jpg)
 
 

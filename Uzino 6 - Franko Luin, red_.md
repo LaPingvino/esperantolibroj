@@ -1,3 +1,6 @@
+% Uzino 6
+% Franko Luin, red_
+
 UZINO 6
 
 

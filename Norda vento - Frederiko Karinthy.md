@@ -1,3 +1,6 @@
+% Norda vento
+% Frederiko Karinthy
+
 !(images/000000.jpg)
 
 

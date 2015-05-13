@@ -1,3 +1,6 @@
+% D-ro Jekyll kaj s-ro Hyde
+% R. L. Stevenson
+
 DOKTORO JEKYLL KAJ SINJORO HYDE
 
 

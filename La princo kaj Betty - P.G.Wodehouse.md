@@ -1,3 +1,6 @@
+% La princo kaj Betty
+% P.G.Wodehouse
+
 L A P R I N CO K A J B E T T Y
 
 

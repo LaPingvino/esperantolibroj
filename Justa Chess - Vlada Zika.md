@@ -1,3 +1,6 @@
+% Justa Chess
+% Vlada Zika
+
 !(images/000001.jpg)
 
 

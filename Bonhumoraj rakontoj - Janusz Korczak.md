@@ -1,3 +1,6 @@
+% Bonhumoraj rakontoj
+% Janusz Korczak
+
 !(images/000000.jpg)
 
 

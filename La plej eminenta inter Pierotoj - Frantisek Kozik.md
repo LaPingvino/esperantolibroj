@@ -1,3 +1,6 @@
+% La plej eminenta inter Pierotoj
+% Frantisek Kozik
+
 LA PLEJ EMINENTA INTER PIEROTOJ
 
 

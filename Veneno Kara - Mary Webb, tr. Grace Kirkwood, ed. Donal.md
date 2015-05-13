@@ -1,3 +1,6 @@
+% Veneno Kara
+% Mary Webb, tr. Grace Kirkwood, ed. Donal
+
 VENENO KARA
 
 

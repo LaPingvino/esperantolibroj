@@ -1,3 +1,6 @@
+% La neg'a blovado
+% Aleksandr Pus'kin
+
 L A N E ¯ A B L OVA D O
 
 

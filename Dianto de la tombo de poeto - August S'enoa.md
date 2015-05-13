@@ -1,3 +1,6 @@
+% Dianto de la tombo de poeto
+% August S'enoa
+
 !(images/000000.jpg)
 
 

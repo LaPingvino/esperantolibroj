@@ -1,3 +1,6 @@
+% Juda sag'o
+% Sigvard Feldbaum, red_
+
 !(images/000013.jpg)
 
 

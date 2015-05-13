@@ -1,3 +1,6 @@
+% La insulo de felic'uloj
+% August Strindberg
+
 LA INSULO DE FELIĉULOJ
 
 

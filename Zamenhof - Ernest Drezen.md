@@ -1,3 +1,6 @@
+% Zamenhof
+% Ernest Drezen
+
 ZAMENHOF
 
 

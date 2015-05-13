@@ -1,3 +1,6 @@
+% Dek du amrakontoj
+% Dek du amrakontoj
+
 !(images/000001.jpg)
 
 

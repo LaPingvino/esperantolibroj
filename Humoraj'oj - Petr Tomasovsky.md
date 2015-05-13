@@ -1,3 +1,6 @@
+% Humoraj'oj
+% Petr Tomasovsky
+
 !(images/000000.jpg)
 
 

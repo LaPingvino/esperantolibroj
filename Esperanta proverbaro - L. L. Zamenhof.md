@@ -1,3 +1,6 @@
+% Esperanta proverbaro
+% L. L. Zamenhof
+
 ESPERANTA PROVERBARO
 
 

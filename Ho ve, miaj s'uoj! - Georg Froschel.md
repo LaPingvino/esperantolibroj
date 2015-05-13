@@ -1,3 +1,6 @@
+% Ho ve, miaj s'uoj!
+% Georg Froschel
+
 H O V E , M I A J ŝ U O J \! 
 
 

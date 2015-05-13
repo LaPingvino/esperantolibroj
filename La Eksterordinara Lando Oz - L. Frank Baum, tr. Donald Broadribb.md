@@ -1,3 +1,6 @@
+% La Eksterordinara Lando Oz
+% L. Frank Baum, tr. Donald Broadribb
+
 !(images/000094.jpg)
 
 

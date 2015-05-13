@@ -1,3 +1,6 @@
+% Synnove Solbakken
+% Bjornstjerne Bjornson
+
 !(images/000001.jpg)
 
 

@@ -1,3 +1,6 @@
+% Fontamara
+% Ignazio Silone
+
 !(images/000000.jpg)
 
 

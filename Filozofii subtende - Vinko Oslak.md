@@ -1,3 +1,6 @@
+% Filozofii subtende
+% Vinko Oslak
+
 FILOZOFII SUBTENDE
 
 

@@ -1,3 +1,6 @@
+% Fraulino el oro
+% Kalman Mikszath
+
 !(images/000000.jpg)
 
 

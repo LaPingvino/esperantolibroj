@@ -1,3 +1,6 @@
+% Eo - Platono
+% Kratilo
+
 **ʟɴ**
 
 

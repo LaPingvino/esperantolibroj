@@ -1,3 +1,6 @@
+% Dialogo inter surduloj
+% Jean Codjo
+
 !(images/000000.jpg)
 
 

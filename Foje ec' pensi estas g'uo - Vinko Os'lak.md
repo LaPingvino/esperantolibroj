@@ -1,3 +1,6 @@
+% Foje ec' pensi estas g'uo
+% Vinko Os'lak
+
 !(images/000000.jpg)
 
 

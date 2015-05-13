@@ -1,3 +1,6 @@
+% Makedonaj perloj
+% Makedonaj perloj
+
 !(images/000000.jpg)
 
 

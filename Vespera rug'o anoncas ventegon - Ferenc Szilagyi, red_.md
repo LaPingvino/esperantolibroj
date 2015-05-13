@@ -1,3 +1,6 @@
+% Vespera rug'o anoncas ventegon
+% Ferenc Szilagyi, red_
+
 VESPERA RU¯O ANONCAS VENTEGON
 
 

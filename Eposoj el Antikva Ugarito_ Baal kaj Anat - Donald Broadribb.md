@@ -1,3 +1,6 @@
+% Eposoj el Antikva Ugarito_ Baal kaj Anat
+% Donald Broadribb
+
 EPOSOJ EL
 
 ANTIKVA UGARITO

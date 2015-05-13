@@ -1,3 +1,6 @@
+% Lingvaj respondoj
+% L.L. Zamenhof
+
 LINGVAJ RESPONDOJ
 
 

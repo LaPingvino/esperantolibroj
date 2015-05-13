@@ -1,3 +1,6 @@
+% kioestas.PDF
+% supervisor
+
 !(images/000001.jpg)
 
 

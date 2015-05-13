@@ -1,3 +1,6 @@
+% Vojag'impresoj
+% Valdemar langlet
+
 VOJA¯IMPRESOJ
 
 

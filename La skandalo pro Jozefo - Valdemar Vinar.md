@@ -1,3 +1,6 @@
+% La skandalo pro Jozefo
+% Valdemar Vinar
+
 !(images/000001.jpg)
 
 

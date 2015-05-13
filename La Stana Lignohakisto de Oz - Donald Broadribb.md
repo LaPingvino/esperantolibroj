@@ -1,3 +1,6 @@
+% La Stana Lignohakisto de Oz
+% Donald Broadribb
+
 !(images/000012.jpg)
 
 

@@ -1,3 +1,6 @@
+% Eo - Baum, L.Frank
+% La mirinda sorcxisto de Oz
+
 !(images/000029.jpg)
 
 

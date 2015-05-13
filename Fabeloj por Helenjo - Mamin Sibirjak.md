@@ -1,3 +1,6 @@
+% Fabeloj por Helenjo
+% Mamin Sibirjak
+
 !(images/000000.jpg)
 
 

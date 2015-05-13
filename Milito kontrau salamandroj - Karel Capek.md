@@ -1,3 +1,6 @@
+% Milito kontrau salamandroj
+% Karel Capek
+
 !(images/000000.jpg)
 
 

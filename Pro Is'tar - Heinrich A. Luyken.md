@@ -1,3 +1,6 @@
+% Pro Is'tar
+% Heinrich A. Luyken
+
 P RO I ŝ TA R
 
 

@@ -1,3 +1,6 @@
+% La konscienco riproc'as
+% August Strindberg
+
 LA KONSCIENCO RIPROĉAS
 
 

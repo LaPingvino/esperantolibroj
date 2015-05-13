@@ -1,3 +1,6 @@
+% Barono Munchhausen
+% Rudolf Erich Raspe
+
 !(images/000025.jpg)
 
 

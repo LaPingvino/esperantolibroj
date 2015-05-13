@@ -1,3 +1,6 @@
+% C'eh'a kaj slovaka antologio, I
+% Cxehxa kaj slovaka antologio 1
+
 ĉE˘A KAJ SLOVAKA ANTOLOGIO
 
 

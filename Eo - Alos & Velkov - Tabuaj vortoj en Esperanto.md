@@ -1,3 +1,6 @@
+% Eo - Alos & Velkov
+% Tabuaj vortoj en Esperanto
+
 **Hektor Alos, Kiril Velkov: Tabuaj vortoj en Esperanto** **Vortaro kun ekzemploj pri praktika uzado**
 
 

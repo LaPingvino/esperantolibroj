@@ -1,3 +1,6 @@
+% Palmodimanc'o de c'evalkomercisto
+% Andras Suto
+
 !(images/000001.jpg)
 
 

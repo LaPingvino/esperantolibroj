@@ -1,3 +1,6 @@
+% La Arto de Memdisciplino - Charles Baudo - KCE
+% Kultura Centro de Esperanto
+
 !(images/000001.jpg)
 
 

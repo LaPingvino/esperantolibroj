@@ -1,3 +1,6 @@
+% R. U. R_
+% Karel Capek
+
 !(images/000000.jpg)
 
 

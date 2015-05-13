@@ -1,3 +1,6 @@
+% Fanny
+% Edna Ferber
+
 !(images/000001.jpg)
 
 

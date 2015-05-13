@@ -1,3 +1,6 @@
+% Gulivero en Liliputo
+% Jonathan Swift
+
 !(images/000002.jpg)
 
 

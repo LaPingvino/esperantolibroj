@@ -1,3 +1,6 @@
+% Kie brulas, g'entlemanoj_
+% Charles Bukowski
+
 !(images/000001.jpg)
 
 

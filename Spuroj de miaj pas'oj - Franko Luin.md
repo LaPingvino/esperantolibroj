@@ -1,3 +1,6 @@
+% Spuroj de miaj pas'oj
+% Franko Luin
+
 S P U RO J D E M I A J PA ŝ O J
 
 

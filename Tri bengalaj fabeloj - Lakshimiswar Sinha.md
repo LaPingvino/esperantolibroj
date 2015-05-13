@@ -1,3 +1,6 @@
+% Tri bengalaj fabeloj
+% Lakshimiswar Sinha
+
 !(images/000000.png)
 
 

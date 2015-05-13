@@ -1,3 +1,6 @@
+% Sveda poemaro
+% Magda Carlsson
+
 SVEDA POEMARO
 
 

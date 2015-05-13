@@ -1,3 +1,6 @@
+% La Smeralda Urbo de Oz
+% Donald Broadribb
+
 !(images/000105.jpg)
 
 

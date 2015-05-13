@@ -1,3 +1,6 @@
+% Internacia krestomatio
+% kabe
+
 !(images/000001.jpg)
 
 

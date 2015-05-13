@@ -1,3 +1,6 @@
+% Letero al la Korintanoj
+% Klemento el Romo
+
 !(images/000001.jpg)
 
 

@@ -1,3 +1,6 @@
+% La brava soldato S'vejk
+% Jaroslav Hasek
+
 !(images/000006.png)
 
 

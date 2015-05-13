@@ -1,3 +1,6 @@
+% Pastaj'o - konsideroj kaj historio
+% Marco Picasso
+
 PASTAĵO
 
 

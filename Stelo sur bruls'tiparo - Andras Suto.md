@@ -1,3 +1,6 @@
+% Stelo sur bruls'tiparo
+% Andras Suto
+
 !(images/000000.jpg)
 
 

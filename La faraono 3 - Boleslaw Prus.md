@@ -1,3 +1,6 @@
+% La faraono 3
+% Boleslaw Prus
+
 LA FARAONO
 
 

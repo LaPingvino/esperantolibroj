@@ -1,3 +1,6 @@
+% Malnovaj mitoj c'eh'aj
+% Alois Jirasek
+
 MALNOVAJ MITOJ ĉE˘AJ
 
 

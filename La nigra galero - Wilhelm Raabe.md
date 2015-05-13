@@ -1,3 +1,6 @@
+% La nigra galero
+% Wilhelm Raabe
+
 !(images/000000.jpg)
 
 

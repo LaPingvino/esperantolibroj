@@ -1,3 +1,6 @@
+% Pizulo kaj Simplulo
+% Aleksandro S'arov
+
 !(images/000000.jpg)
 
 

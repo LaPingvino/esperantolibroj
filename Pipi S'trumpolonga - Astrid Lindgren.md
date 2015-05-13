@@ -1,3 +1,6 @@
+% Pipi S'trumpolonga
+% Astrid Lindgren
+
 P I P I ŝ T R U M P O L O N G A
 
 

@@ -1,3 +1,6 @@
+% Homoj sur la tero
+% Stellan Engholm
+
 HOMOJ SUR LA TERO
 
 

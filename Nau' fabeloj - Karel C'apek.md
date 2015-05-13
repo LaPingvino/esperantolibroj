@@ -1,3 +1,6 @@
+% Nau' fabeloj
+% Karel C'apek
+
 !(images/000000.jpg)
 
 

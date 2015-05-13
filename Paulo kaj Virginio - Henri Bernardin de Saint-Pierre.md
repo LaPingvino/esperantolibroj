@@ -1,3 +1,6 @@
+% Paulo kaj Virginio
+% Henri Bernardin de Saint-Pierre
+
 !(images/000001.jpg)
 
 

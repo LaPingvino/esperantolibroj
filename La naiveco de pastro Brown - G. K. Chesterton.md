@@ -1,3 +1,6 @@
+% La naiveco de pastro Brown
+% G. K. Chesterton
+
 L A N A I V E CO D E PA ST RO B ROW N
 
 

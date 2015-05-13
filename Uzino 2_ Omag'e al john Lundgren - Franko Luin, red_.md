@@ -1,3 +1,6 @@
+% Uzino 2_ Omag'e al john Lundgren
+% Franko Luin, red_
+
 UZINO 2: OMA¯E AL JOHN LUNDGREN
 
 

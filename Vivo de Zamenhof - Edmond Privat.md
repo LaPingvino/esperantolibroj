@@ -1,3 +1,6 @@
+% Vivo de Zamenhof
+% Edmond Privat
+
 !(images/000008.png)
 
 

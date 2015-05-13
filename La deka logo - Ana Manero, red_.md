@@ -1,3 +1,6 @@
+% La deka logo
+% Ana Manero, red_
+
 !(images/000015.jpg)
 
 

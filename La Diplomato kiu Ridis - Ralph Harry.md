@@ -1,3 +1,6 @@
+% La Diplomato kiu Ridis
+% Ralph Harry
+
 !(images/000000.png)
 
 

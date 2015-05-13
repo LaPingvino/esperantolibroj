@@ -1,3 +1,6 @@
+% Gosta Berling
+% Selma Lagerlof
+
 !(images/000001.jpg)
 
 

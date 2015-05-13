@@ -1,3 +1,6 @@
+% Pario
+% August Strindberg
+
 P A R I O
 
 

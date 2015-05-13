@@ -1,3 +1,6 @@
+% La fundo de l'mizero
+% Vaclav Sierosevski
+
 LA FUNDO DE L’MIZERO
 
 

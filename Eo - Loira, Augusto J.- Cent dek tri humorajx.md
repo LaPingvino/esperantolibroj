@@ -1,3 +1,6 @@
+% Eo
+% Loira, Augusto J.- Cent dek tri humorajx
+
 !(images/000000.jpg)
 
 

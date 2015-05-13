@@ -1,3 +1,6 @@
+% Prologo
+% Augeno Mih'alski
+
 !(images/000001.jpg)
 
 

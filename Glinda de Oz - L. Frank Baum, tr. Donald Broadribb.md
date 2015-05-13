@@ -1,3 +1,6 @@
+% Glinda de Oz
+% L. Frank Baum, tr. Donald Broadribb
+
 !(images/000118.jpg)
 
 

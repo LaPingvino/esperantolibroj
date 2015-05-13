@@ -1,3 +1,6 @@
+% Paroladoj
+% L. L. Zamenhof
+
 PAROLADOJ
 
 

@@ -1,3 +1,6 @@
+% Spiritoj.PDF
+% lvencio
+
 !(images/000002.jpg)
 
 

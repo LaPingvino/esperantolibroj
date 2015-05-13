@@ -1,3 +1,6 @@
+% Du malsanoj en Esperanto
+% H. A. de Hoog
+
 DU MALSANOJ EN ESPERANTO
 
 

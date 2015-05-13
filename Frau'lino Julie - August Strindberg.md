@@ -1,3 +1,6 @@
+% Frau'lino Julie
+% August Strindberg
+
 FRAŭLINO JULIE
 
 

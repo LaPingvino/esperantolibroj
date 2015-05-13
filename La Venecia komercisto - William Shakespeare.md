@@ -1,3 +1,6 @@
+% La Venecia komercisto
+% William Shakespeare
+
 !(images/000001.jpg)
 
 

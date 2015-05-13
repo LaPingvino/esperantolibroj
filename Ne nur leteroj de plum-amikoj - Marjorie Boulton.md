@@ -1,3 +1,6 @@
+% Ne nur leteroj de plum-amikoj
+% Marjorie Boulton
+
 NE NUR LETEROJ DE PLUM-AMIKOJ
 
 

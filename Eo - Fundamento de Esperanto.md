@@ -1,3 +1,6 @@
+% Eo
+% Fundamento de Esperanto
+
 FUNDAMENTO DE ESPERANTO 
 Antaŭparolo
 

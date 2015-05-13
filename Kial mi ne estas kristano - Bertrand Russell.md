@@ -1,3 +1,6 @@
+% Kial mi ne estas kristano
+% Bertrand Russell
+
 !(images/000001.jpg)
 
 

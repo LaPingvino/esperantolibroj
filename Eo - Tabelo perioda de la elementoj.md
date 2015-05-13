@@ -1,3 +1,6 @@
+% Eo
+% Tabelo perioda de la elementoj
+
 **PERIODA TABELO DE LA ELEMENTOJ**
 
 

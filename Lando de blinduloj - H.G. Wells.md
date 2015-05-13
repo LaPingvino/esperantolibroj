@@ -1,3 +1,6 @@
+% Lando de blinduloj
+% H.G. Wells
+
 LANDO DE BLINDULOJ
 
 

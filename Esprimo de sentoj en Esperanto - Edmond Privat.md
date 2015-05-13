@@ -1,3 +1,6 @@
+% Esprimo de sentoj en Esperanto
+% Edmond Privat
+
 ESPRIMO DE SENTOJ EN ESPERANTO
 
 

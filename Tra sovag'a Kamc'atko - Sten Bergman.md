@@ -1,3 +1,6 @@
+% Tra sovag'a Kamc'atko
+% Sten Bergman
+
 TRA SOVA¯A KAMĉATKO
 
 

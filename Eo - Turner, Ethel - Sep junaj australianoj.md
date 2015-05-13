@@ -1,3 +1,6 @@
+% Eo - Turner, Ethel
+% Sep junaj australianoj
+
 **SEP JUNAJ**
 
 

@@ -1,3 +1,6 @@
+% For la batalilojn!
+% Bertha von Suttner
+
 FOR LA BATALILOJN\! 
 
 

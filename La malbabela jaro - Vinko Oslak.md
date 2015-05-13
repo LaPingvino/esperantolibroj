@@ -1,3 +1,6 @@
+% La malbabela jaro
+% Vinko Oslak
+
 LA MALBABELA JARO
 
 

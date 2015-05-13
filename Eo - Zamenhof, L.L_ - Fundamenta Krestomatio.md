@@ -1,3 +1,6 @@
+% Eo - Zamenhof, L.L_
+% Fundamenta Krestomatio
+
 !(images/000001.jpg)
 
 

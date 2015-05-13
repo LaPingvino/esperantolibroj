@@ -1,3 +1,6 @@
+% Manifesto de la Komunista partio
+% Marx
+
 !(images/000000.jpg)
 
 

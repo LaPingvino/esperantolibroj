@@ -1,3 +1,6 @@
+% La filino de la kapitano
+% Aleksandr Puskin
+
 !(images/000001.jpg)
 
 

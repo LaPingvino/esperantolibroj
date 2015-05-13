@@ -1,3 +1,6 @@
+% S'i humilig'as por venki
+% Oliver Goldsmith
+
 !(images/000000.jpg)
 
 

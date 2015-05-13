@@ -1,3 +1,6 @@
+% Malbeno Kara
+% Mary Webb, tr. Grace Kirkwood, ed. Donal
+
 MALBENO KARA
 
 

@@ -1,3 +1,6 @@
+% Skribaj'oj de frenezulo
+% Nikolaj Gogol
+
 !(images/000000.jpg)
 
 

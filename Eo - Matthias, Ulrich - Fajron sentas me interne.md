@@ -1,3 +1,6 @@
+% Eo - Matthias, Ulrich
+% Fajron sentas me interne
+
 !(images/000001.jpg)
 
 

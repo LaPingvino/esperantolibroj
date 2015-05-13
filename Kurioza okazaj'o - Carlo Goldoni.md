@@ -1,3 +1,6 @@
+% Kurioza okazaj'o
+% Carlo Goldoni
+
 KURIOZA OKAZAĵO
 
 

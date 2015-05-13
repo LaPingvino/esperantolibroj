@@ -1,3 +1,6 @@
+% La tempomas'ino
+% H. G. Wells
+
 LA TEMPO-MAŝINO
 
 

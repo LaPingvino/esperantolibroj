@@ -1,3 +1,6 @@
+% Vojag'o al Faremido
+% Frigyes Karinthy
+
 !(images/000001.jpg)
 
 

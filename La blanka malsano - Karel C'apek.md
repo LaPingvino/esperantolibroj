@@ -1,3 +1,6 @@
+% La blanka malsano
+% Karel C'apek
+
 !(images/000000.jpg)
 
 

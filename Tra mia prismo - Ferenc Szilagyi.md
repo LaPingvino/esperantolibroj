@@ -1,3 +1,6 @@
+% Tra mia prismo
+% Ferenc Szilagyi
+
 T R A M I A P R I S M O
 
 

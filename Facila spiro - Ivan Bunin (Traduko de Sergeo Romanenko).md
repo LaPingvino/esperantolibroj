@@ -1,3 +1,6 @@
+% Facila spiro
+% Ivan Bunin (Traduko de Sergeo Romanenko)
+
 **Facila spiro **
 
 

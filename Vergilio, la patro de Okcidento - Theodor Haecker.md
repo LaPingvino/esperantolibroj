@@ -1,3 +1,6 @@
+% Vergilio, la patro de Okcidento
+% Theodor Haecker
+
 VERGILIO, LA PATRO DE OKCIDENTO
 
 

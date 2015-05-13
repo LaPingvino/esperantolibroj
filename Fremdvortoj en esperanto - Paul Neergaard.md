@@ -1,3 +1,6 @@
+% Fremdvortoj en esperanto
+% Paul Neergaard
+
 FREMDVORTOJ EN ESPERANTO
 
 

@@ -1,3 +1,6 @@
+% Libro de l'humoraj'o
+% Paul de Lengyel
+
 !(images/000014.jpg)
 
 

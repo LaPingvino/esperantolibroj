@@ -1,3 +1,6 @@
+% Radianta Lotuso
+% J. D. Degreef
+
 !(images/000000.jpg)
 
 

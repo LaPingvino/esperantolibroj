@@ -1,3 +1,6 @@
+% C__murdo_moe_000orient_moe.wpd
+% Darold
+
 MURDO EN LA
 
 

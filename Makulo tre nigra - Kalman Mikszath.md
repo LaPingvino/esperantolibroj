@@ -1,3 +1,6 @@
+% Makulo tre nigra
+% Kalman Mikszath
+
 !(images/000000.jpg)
 
 

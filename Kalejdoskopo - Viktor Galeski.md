@@ -1,3 +1,6 @@
+% Kalejdoskopo
+% Viktor Galeski
+
 !(images/000001.jpg)
 
 
