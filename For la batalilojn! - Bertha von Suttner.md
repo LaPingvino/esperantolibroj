@@ -18602,7 +18602,7 @@ menti la aliajn, pripensante teruraĵojn?
 
 Kial? Tion mi diros poste, momente mi nur diras: mi devas. 
 
-Pli ankoraŭ. Ne nur mian propran memoron mi volas ŝtreĉi
+Pli ankoraŭ. Ne nur mian propran memoron mi volas streĉi
 
 — la forto de mia kompreno ne kapablis ampleksi la grande-
 
